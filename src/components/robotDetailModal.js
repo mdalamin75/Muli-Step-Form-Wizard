@@ -32,7 +32,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
   return (
     <div className="RobotDetailModal-overlay fixed top-0 left-0 right-0 bottom-0 bg-black/50 flex justify-center items-center z-50" onClick={onClose}> {/* Overlay to close modal on click */}
       <div className="container mx-auto px-3 md:px-5">
-        <div className="RobotDetailModal-content bg-white p-10 rounded-lg relative w-full" onClick={(e) => e.stopPropagation()}> {/* Prevents modal close on inner click */}
+        <div className="RobotDetailModal-content bg-white p-3 md:p-10 rounded-lg relative w-full max-h-dvh overflow-y-scroll " onClick={(e) => e.stopPropagation()}> {/* Prevents modal close on inner click */}
           {/* Button container for close and bookmark buttons */}
           <div className="RobotDetailModal-buttons absolute top-3 right-3 flex gap-3">
             {/* Bookmark button with conditional color */}
@@ -48,7 +48,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
             </button> {/* Close button */}
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 place-items-end items-center gap-5 mt-10 mb-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-5 mt-10 mb-10">
             <div>
               {/* Display robot details */}
               <h2 className="RobotDetailModal-title font-abel font-normal text-lg">{robot.name} - {robot.applicationType}</h2>
@@ -65,7 +65,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
                 <p className="font-abel font-normal text-base text-gray8"><strong>Components:</strong> {robot.components || "Not specified"}</p>
               </div>
             </div>
-            <div>
+            <div className="flex justify-center md:justify-end">
               <div className="RobotDetailModal-images">
                 {/* Display main image if available, else show placeholder text */}
                 {robot.image ? (
@@ -77,12 +77,41 @@ const RobotDetailModal = ({ robot, onClose }) => {
             </div>
           </div>
 
-          <div className="RobotDetailModal-details grid grid-cols-1 md:grid-cols-2 place-items-end items-center gap-5">
-            <div className="RobotDetailModal-program">
+          <div className="RobotDetailModal-details grid grid-cols-1 md:grid-cols-2  items-center gap-5">
+            <div className="RobotDetailModal-program border border-slate-200 p-5 flex justify-end flex-col align-baseline">
               <h4 className="font-abel font-medium text-base">Program</h4>
               <p className="font-abel font-normal text-base text-gray8">{robot.program || "No program details available"}</p> {/* Program details or fallback */}
+              <div className="">
+                <div className="max-h-[20dvh] overflow-y-scroll">
+                  <ul className="space-y-2">
+                    <li className="font-abel font-medium text-base">Variables Setup</li>
+                    <li>
+                      <span className="font-abel font-medium text-base">Robot Program</span>
+                      <ul className="pl-4 space-y-1 font-abel font-normal text-base text-gray8">
+                        <li>MoveJ - home</li>
+                        <li>3FG Release(100)*</li>
+                        <li>Call PickObject</li>
+                        <li>Call OpenDoor</li>
+                        <li>Call LoadPiece</li>
+                        <li>Call CloseDoor</li>
+                        <li>Popup: Machineries finished</li>
+                        <li>Call OpenDoor</li>
+                        <li>Call UnloadPiece</li>
+                        <li>Call CloseDoor</li>
+                      </ul>
+                    </li>
+                    <li>
+                      <span className="font-abel font-medium text-base">PickObject</span>
+                      <ul className="pl-4 space-y-1 font-abel font-normal text-base text-gray8">
+                        <li>MoveJ - pick1</li>
+                        <li>MoveL - pick2</li>
+                      </ul>
+                    </li>
+                  </ul>
+                </div>
+              </div>
             </div>
-            <div className="RobotDetailModal-images">
+            <div className="RobotDetailModal-images flex justify-center md:justify-end">
               {/* Display additional image if available, else show placeholder text */}
               {robot.additionalImage ? (
                 <img src={additionalImageSrc} alt={`${robot.name} setup`} />
