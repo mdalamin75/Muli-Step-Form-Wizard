@@ -1,7 +1,6 @@
 import React from 'react';
 import Step from './step';
 import UserIcon from './userIcon';
-// import '../styles/stepper.css';
 import { GiWorld } from "react-icons/gi";
 const Stepper = ({ steps, currentStep, selectedOptions, user }) => {
   return (

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-// import '../styles/sidebar.css';
 
 const Sidebar = ({
   robotTypes = [], // Default to empty array if not provided
@@ -45,7 +44,7 @@ const Sidebar = ({
   };
 
   return (
-    <div className="sidebar px-2 md:px-5 pt-8 w-5/12 md:w-2/12 border border-slate-300 rounded-md">
+    <div className="sidebar px-2 md:px-5 pt-8 ml-2 md:ml-10 w-5/12 md:w-2/12 border border-slate-300 rounded-md">
       <div className="flex flex-col gap-10">
         <div>
           <h3 className="font-inter font-semibold text-sm md:text-base text-gray9 mb-2">Robot Type</h3>

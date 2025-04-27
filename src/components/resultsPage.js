@@ -3,7 +3,6 @@ import SearchBar from './searchBar';
 import FilterDropdown from './filterDropdown';
 import Sidebar from './sideBar';
 import FilteredRobots from './filteredRobots';
-import '../styles/resultsPage.css';
 import UserIcon from './userIcon';
 import { GiWorld } from "react-icons/gi";
 

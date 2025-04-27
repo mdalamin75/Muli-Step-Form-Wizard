@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Stepper from './stepper';
 import Dropdown from './dropDown';
 import NavigationButtons from './navigationButtons';
-// import '../styles/stepperForm.css';
 
 const StepperForm = ({ robots, onComplete }) => {
   const [currentStep, setCurrentStep] = useState(1); // Track the current step

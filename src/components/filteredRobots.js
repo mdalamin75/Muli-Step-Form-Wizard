@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import RobotCard from './robotCard';
 import RobotDetailModal from './robotDetailModal';
-// import '../styles/filteredRobots.css';
 
 const FilteredRobots = ({ robots = [] }) => {
   const [visibleCount, setVisibleCount] = useState(3); // Initially show 3 robots

@@ -1,6 +1,5 @@
 import React from 'react';
 import { FaStar } from 'react-icons/fa'; // Import the star icon from react-icons
-// import '../styles/card.css';
 
 // Function to dynamically load the robot image
 const getImage = imageName => {

@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-// import '../styles/searchBar.css';
 import cooccurrencePairs from '../cooccurrence_pairs.json';
 
 const SearchBar = ({ searchTerm, setSearchTerm }) => {

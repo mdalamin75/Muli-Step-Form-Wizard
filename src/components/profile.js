@@ -14,17 +14,17 @@ const Profile = () => {
   );
 
   return (
-    <div>
-      <h2>Welcome, {currentUser.username}!</h2>
-      <p>Bookmarked Robots:</p>
+    <div className="container mx-auto h-dvh flex flex-col justify-center items-center">
+      <h2 className="font-inter font-semibold text-lg">Welcome, {currentUser.username}!</h2>
+      <p className="font-abel font-medium py-3">Bookmarked Robots:</p>
       <ul>
         {bookmarkedRobots.length > 0 ? (
           bookmarkedRobots.map(robot => <li key={robot.id}>{robot.name}</li>)
         ) : (
-          <p>No bookmarks yet.</p>
+          <p className="font-abel font-normal py-3">No bookmarks yet.</p>
         )}
       </ul>
-      <button onClick={logoutUser}>Logout</button>
+      <button onClick={logoutUser} className="bg-primary text-white font-abel font-medium text-base px-5 py-2 my-2 rounded-full">Logout</button>
     </div>
   );
 };
