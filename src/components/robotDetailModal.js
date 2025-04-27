@@ -31,7 +31,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
 
   return (
     <div className="RobotDetailModal-overlay fixed top-0 left-0 right-0 bottom-0 bg-black/50 flex justify-center items-center z-50" onClick={onClose}> {/* Overlay to close modal on click */}
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3 md:px-5">
         <div className="RobotDetailModal-content bg-white p-10 rounded-lg relative w-full" onClick={(e) => e.stopPropagation()}> {/* Prevents modal close on inner click */}
           {/* Button container for close and bookmark buttons */}
           <div className="RobotDetailModal-buttons absolute top-3 right-3 flex gap-3">
@@ -48,7 +48,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
             </button> {/* Close button */}
           </div>
 
-          <div className="flex justify-between items-center gap-5 mt-10 mb-10">
+          <div className="grid grid-cols-1 md:grid-cols-2 place-items-end items-center gap-5 mt-10 mb-10">
             <div>
               {/* Display robot details */}
               <h2 className="RobotDetailModal-title font-abel font-normal text-lg">{robot.name} - {robot.applicationType}</h2>
@@ -77,7 +77,7 @@ const RobotDetailModal = ({ robot, onClose }) => {
             </div>
           </div>
 
-          <div className="RobotDetailModal-details flex justify-between items-center">
+          <div className="RobotDetailModal-details grid grid-cols-1 md:grid-cols-2 place-items-end items-center gap-5">
             <div className="RobotDetailModal-program">
               <h4 className="font-abel font-medium text-base">Program</h4>
               <p className="font-abel font-normal text-base text-gray8">{robot.program || "No program details available"}</p> {/* Program details or fallback */}

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/step.css';
+// import '../styles/step.css';
 
 const Step = ({ isFirst, isLast, isCurrent, isPre, isPost, title, subtitle }) => {
   let stepClass = 'step';
@@ -16,10 +16,12 @@ const Step = ({ isFirst, isLast, isCurrent, isPre, isPost, title, subtitle }) =>
   }
 
   return (
-    <div className={`${stepClass}`}>
-      <div className="font-inter font-medium text-sm text-gray7 active:text-blue6">{title}</div>
-      <div className="step-subtitle font-inter font-normal text-xs text-gray5">{subtitle}</div>
+    <>
+    <div className={`${stepClass} w-60 h-16 flex flex-col justify-center items-start gap-1 bg-contain bg-no-repeat`}>
+      <div className="font-inter font-medium text-sm text-gray7 ml-7 active:text-blue6 ">{title}</div>
+      <div className="step-subtitle font-inter font-normal text-xs text-gray5 ml-7">{subtitle} test</div>
     </div>
+    </>
   );
 };
 

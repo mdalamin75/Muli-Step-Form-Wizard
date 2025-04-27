@@ -21,7 +21,7 @@ const RobotCard = ({ robot, onCardClick }) => {
   const imageSrc = getImage(robot.image); // Fetch image from assets
 
   return (
-    <div className="py-5 px-8 rounded-xl shadow-xl mr-10 border border-slate-300 transition duration-200 delay-100 hover:-translate-y-2" onClick={() => onCardClick(robot)}>
+    <div className="py-5 px-3 md:px-8 rounded-xl shadow-xl mr-3 md:mr-10 border border-slate-300 transition duration-200 delay-100 hover:-translate-y-2" onClick={() => onCardClick(robot)}>
       {/* Image and details container */}
       <div className="robot-card-content grid sm:grid-flow-row md:grid-flow-col justify-between items-center gap-5">
         <div className="robot-card-box-left sm:order-2 md:order-1">
@@ -32,10 +32,10 @@ const RobotCard = ({ robot, onCardClick }) => {
               <span className="rating-text font-abel font-normal text-base">{averageRating}</span> {/* Display calculated average rating */}
             </div>
             <div className="robot-details">
-              <p className="font-abel font-normal text-base text-gray8"><strong>Robot Type:</strong> {robot.robotType}</p>
-              <p className="font-abel font-normal text-base text-gray8"><strong>Application Type:</strong> {robot.applicationType}</p>
-              <p className="font-abel font-normal text-base text-gray8"><strong>Gripper Type:</strong> {robot.gripperType}</p>
-              <p className="font-abel font-normal text-base text-gray8"><strong>Data Available:</strong> {robot.dataAvailable || "Not specified"}</p>
+              <p className="font-abel font-normal text-sm md:text-base text-gray8"><strong>Robot Type:</strong> {robot.robotType}</p>
+              <p className="font-abel font-normal text-sm md:text-base text-gray8"><strong>Application Type:</strong> {robot.applicationType}</p>
+              <p className="font-abel font-normal text-sm md:text-base text-gray8"><strong>Gripper Type:</strong> {robot.gripperType}</p>
+              <p className="font-abel font-normal text-sm md:text-base text-gray8"><strong>Data Available:</strong> {robot.dataAvailable || "Not specified"}</p>
             </div>
           </div>
         </div>

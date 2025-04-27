@@ -25,7 +25,7 @@ const FilteredRobots = ({ robots = [] }) => {
   console.log('Filtered Robots in FilteredRobots:', robots);
 
   return (
-    <div className="flex flex-col w-10/12 gap-5">
+    <div className="flex flex-col w-8/12 md:w-10/12 gap-5">
       {robots.length > 0 ? (
         robots.slice(0, visibleCount).map((robot) => (
           <RobotCard key={robot.id} robot={robot} onCardClick={handleCardClick} />

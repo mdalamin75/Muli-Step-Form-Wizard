@@ -1,4 +1,4 @@
-.step {
+/* .step {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
@@ -10,14 +10,14 @@
   font-weight: 500;
   color: #252F3F;
   margin-right: -10px;
-}
+} */
 
-.step-subtitle {
+/* .step-subtitle {
   font-family: Inter;
   font-size: 12px;
   font-weight: 400;
   color: #252F3F;
-}
+} */
 
 /* First step states */
 .step-first-active {

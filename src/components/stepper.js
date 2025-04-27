@@ -1,12 +1,17 @@
 import React from 'react';
 import Step from './step';
-import '../styles/stepper.css';
-
-const Stepper = ({ steps, currentStep, selectedOptions }) => {
+import UserIcon from './userIcon';
+// import '../styles/stepper.css';
+import { GiWorld } from "react-icons/gi";
+const Stepper = ({ steps, currentStep, selectedOptions, user }) => {
   return (
     <div className="bg-gray w-full">
-      <div className="container mx-auto">
-        <div className="stepper flex justify-center py-16">
+      <div className="container mx-auto px-3 md:px-5">
+        <div className="user flex items-center justify-end gap-3 py-5">
+          <GiWorld color="#3D4EAC" size="1.5rem" className="cursor-pointer" />
+          <UserIcon user={user} />
+        </div>
+        <div className="stepper grid sm:grid-flow-row md:grid-flow-col justify-center gap-3 py-16">
           {steps.map((step, index) => {
             const isFirst = index === 0;
             const isLast = index === steps.length - 1;

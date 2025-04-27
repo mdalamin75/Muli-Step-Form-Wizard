@@ -6,8 +6,8 @@ import Profile from './components/profile';
 import WelcomePage from './components/welcomePage';
 import { UserContext } from './contexts/userContext';
 import mockRobots from './data/mockRobots.json';
-// import Login from './components/login';
-import "./styles/index.css"
+import Login from './components/login';
+import "./styles/global.css"
 
 const App = () => {
   const { currentUser } = useContext(UserContext);
@@ -44,10 +44,10 @@ const App = () => {
 
   return (
     <Routes>
-      {/* <Route path="/" element={<Login />} /> */}
-      <Route path="/" element={<WelcomePage />} />
+      <Route path="/" element={<Login />} />
+      <Route path="/welcome" element={<WelcomePage />} />
       <Route
-        path="/SearchWizard"
+        path="/searchwizard"
         element={
           <StepperForm
             robots={robots}
@@ -58,7 +58,7 @@ const App = () => {
         }
       />
       <Route
-        path="/Search"
+        path="/search"
         element={
           <ResultsPage
             robots={filteredData.length > 0 ? filteredData : robots} // Pass filtered or full robots list

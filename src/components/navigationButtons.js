@@ -7,7 +7,7 @@ const NavigationButtons = ({
   handleSubmit 
 }) => {
   return (
-    <div className="flex justify-end gap-5 pt-10">
+    <div className="flex justify-end gap-5 pt-10 mb-5">
       {/* <button onClick={handleSubmit}>Skip</button> */}
       {currentStep > 1 && (
         <button className="previous-button border border-slate-400 px-6 py-2 rounded-md font-inter font-medium text-sm text-gray7 hover:text-blue5 hover:border-blue5" onClick={() => setCurrentStep(currentStep - 1)}>

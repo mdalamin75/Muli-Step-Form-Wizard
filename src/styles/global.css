@@ -1,10 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font Family Start */
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+/* Font Family End */
+
 /* Apply box-sizing globally */
 * {
   box-sizing: border-box;
 }
 
 /* Global body styling */
-html, body {
+html, body{
+  overflow-x: hidden;
+}
+/* html, body {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -14,4 +25,40 @@ html, body {
   overflow-y: auto;
   font-family: 'Arial', sans-serif;
   background-color: #f5f5f5;
+} */
+
+/* Step Active CSS Start Here */
+
+/* First step states */
+.step-first-active {
+  /* margin-left: 15px; */
+  background-image: url('../assets/step-first.svg');
 }
+
+.step-first-post {
+  /* margin-left: 15px; */
+  background-image: url('../assets/step-first-post.svg');
+}
+
+/* Middle step states */
+.step-mid-pre {
+  background-image: url('../assets/step-mid-pre.svg');
+}
+
+.step-mid-active {
+  background-image: url('../assets/step-mid-selected.svg');
+}
+
+.step-mid-post {
+  background-image: url('../assets/step-mid-post.svg');
+}
+
+/* Last step states */
+.step-last-pre {
+  background-image: url('../assets/step-last-pre.svg');
+}
+
+.step-last-active {
+  background-image: url('../assets/step-last-selected.svg');
+}
+/* Step Active CSS End Here */

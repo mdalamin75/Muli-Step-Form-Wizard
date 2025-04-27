@@ -4,12 +4,15 @@ import FilterDropdown from './filterDropdown';
 import Sidebar from './sideBar';
 import FilteredRobots from './filteredRobots';
 import '../styles/resultsPage.css';
+import UserIcon from './userIcon';
+import { GiWorld } from "react-icons/gi";
 
 const ResultsPage = ({
   robots = [], // Default robots to an empty array
   robotTypes = [], // Default robotTypes to an empty array
   applicationTypes = [], // Default applicationTypes to an empty array
   gripperTypes = [], // Default gripperTypes to an empty array
+  user
 }) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [sortOption, setSortOption] = useState('');
@@ -65,9 +68,13 @@ const ResultsPage = ({
     <>
       <div className="results-page">
         {/* Search Bar and Sorting Dropdown */}
-        <div className="bg-gray py-16">
-          <div className="container mx-auto">
-            <div className="w-full flex justify-center align-middle items-center gap-5">
+        <div className="bg-gray ">
+          <div className="container mx-auto px-3 md:px-5">
+            <div className="user flex items-center justify-end gap-3 py-5">
+              <GiWorld color="#3D4EAC" size="1.5rem" className="cursor-pointer" />
+              <UserIcon user={user} />
+            </div>
+            <div className="w-full flex justify-center align-middle items-center gap-5 pb-16">
               <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
               <FilterDropdown selectedOption={sortOption} setSelectedOption={setSortOption} />
             </div>
@@ -75,7 +82,7 @@ const ResultsPage = ({
         </div>
 
         {/* Sidebar and Filtered Robots */}
-        <div className="flex gap-10 py-12">
+        <div className="flex gap-3 md:gap-10 py-12">
           <Sidebar
             robotTypes={robotTypes}
             applicationTypes={applicationTypes}

@@ -63,19 +63,19 @@ const StepperForm = ({ robots, onComplete }) => {
       <Stepper steps={[1, 2, 3]} currentStep={currentStep} selectedOptions={selectedOptions} />
 
       {/* Selection Cards and Dropdown */}
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3 md:px-5">
         {/* Top Button */}
         <div className="flex justify-end gap-5 pt-4">
           <button onClick={handleSubmit} className="border border-slate-400 px-4 py-2 rounded-md font-inter font-medium text-sm text-gray7 hover:text-blue5 hover:border-blue5">Exit</button>
           <button onClick={handleSubmit} className="border border-slate-400 px-4 py-2 rounded-md font-inter font-medium text-sm text-gray7 hover:text-blue5 hover:border-blue5">Skip</button>
         </div>
-        <div className="step-card-container flex flex-row justify-center gap-16 w-full pt-28 pb-16">
+        <div className="step-card-container grid sm:grid-flow-col md:grid-flow-col justify-evenly gap-16 w-full pt-28 pb-16">
           {cardOptions.map((option, index) => {
             const optionImage = `${process.env.PUBLIC_URL}/assets/${option}.png`;
             return (
               <div
                 key={index}
-                className={`step-card ${selectedOptions[`step${currentStep}`] === option ? 'selected' : ''} min-w-52 min-h-56 px-5 py-8 bg-gray border border-slate-300 rounded-md cursor-pointer transition delay-75 duration-200 ease-in-out hover:-translate-y-5 hover:bg-slate-50`}
+                className={`step-card ${selectedOptions[`step${currentStep}`] === option ? 'selected' : ''} min-w-52 min-h-56 px-5 py-8 bg-gray border border-slate-300 rounded-xl shadow-lg cursor-pointer transition delay-75 duration-200 ease-in-out hover:-translate-y-5 hover:bg-slate-50`}
                 onClick={() => handleOptionSelect(`step${currentStep}`, option)}
               >
                 <img src={optionImage} alt={option} />
@@ -100,7 +100,7 @@ const StepperForm = ({ robots, onComplete }) => {
       </div>
 
       {/* Navigation Buttons */}
-      <div className="container mx-auto">
+      <div className="container mx-auto px-3 md:px-5">
         <NavigationButtons
           currentStep={currentStep}
           setCurrentStep={setCurrentStep}

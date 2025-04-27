@@ -1,6 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Login from './login';
+import { IoMdClose } from "react-icons/io";
 import '../styles/userIconModal.css';
 import { UserContext } from '../contexts/userContext'; // Use context directly
 
@@ -34,7 +35,9 @@ const UserIcon = () => {
       {showLoginModal && (
         <div className="modal-overlay" onClick={closeModal}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
-            <button className="close-button" onClick={closeModal}>×</button>
+            <button className="close-button" onClick={closeModal}>
+               <IoMdClose />
+            </button>
             <Login onLoginSuccess={closeModal} />
           </div>
         </div>

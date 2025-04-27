@@ -45,10 +45,10 @@ const Sidebar = ({
   };
 
   return (
-    <div className="sidebar px-5 pt-8 w-2/12 border border-slate-300 rounded-md">
+    <div className="sidebar px-2 md:px-5 pt-8 w-5/12 md:w-2/12 border border-slate-300 rounded-md">
       <div className="flex flex-col gap-10">
         <div>
-          <h3 className="font-inter font-semibold text-base text-gray9 mb-2">Robot Type</h3>
+          <h3 className="font-inter font-semibold text-sm md:text-base text-gray9 mb-2">Robot Type</h3>
           {robotTypes.length > 0 ? (
             <div>
               {robotTypes.map((type) => (
@@ -62,7 +62,7 @@ const Sidebar = ({
                 // </input>
                 <div
                   key={type}
-                  className="flex gap-2 mb-3 cursor-pointer"
+                  className="flex gap-1 md:gap-2 mb-3 cursor-pointer"
                   onClick={() => robotHandleClick(type)}
                 >
                   <input
@@ -71,10 +71,10 @@ const Sidebar = ({
                     id={type}
                     checked={!!robotCheckedStates[type]} // Use the state for this checkbox
                     onChange={() => { }} // Prevent default checkbox behavior
-                    className="accent-blue6 w-4 rounded-full"
+                    className="accent-blue6 w-3 md:w-4 rounded-full"
                   />
                   <span
-                    className={`font-inter font-medium text-sm ${robotCheckedStates[type] ? 'text-blue6' : 'text-gray9'
+                    className={`font-inter font-medium text-xs md:text-sm ${robotCheckedStates[type] ? 'text-blue6' : 'text-gray9'
                       }`}
                   >
                     {type}
@@ -87,7 +87,7 @@ const Sidebar = ({
           )}
         </div>
         <div>
-          <h3 className="font-inter font-semibold text-base text-gray9 mb-2">Application Type</h3>
+          <h3 className="font-inter font-semibold text-sm md:text-base text-gray9 mb-2">Application Type</h3>
           {applicationTypes.length > 0 ? (
             <div>
               {applicationTypes.map((type) => (
@@ -100,7 +100,7 @@ const Sidebar = ({
                 // </li>
                 <div
                 key={type}
-                className="flex gap-2 mb-3 cursor-pointer"
+                className="flex gap-1 md:gap-2 mb-3 cursor-pointer"
                 onClick={() => appHandleClick(type)}
               >
                 <input
@@ -109,10 +109,10 @@ const Sidebar = ({
                   id={type}
                   checked={!!appCheckedStates[type]} // Use the state for this checkbox
                   onChange={() => { }} // Prevent default checkbox behavior
-                  className="accent-blue6 w-4 rounded-full"
+                  className="accent-blue6 w-3 md:w-4 rounded-full"
                 />
                 <span
-                  className={`font-inter font-medium text-sm ${appCheckedStates[type] ? 'text-blue6' : 'text-gray9'
+                  className={`font-inter font-medium text-xs md:text-sm ${appCheckedStates[type] ? 'text-blue6' : 'text-gray9'
                     }`}
                 >
                   {type}
@@ -125,7 +125,7 @@ const Sidebar = ({
           )}
         </div>
         <div>
-        <h3 className="font-inter font-semibold text-base text-gray9 mb-2">Gripper Type</h3>
+        <h3 className="font-inter font-semibold text-sm md:text-base text-gray9 mb-2">Gripper Type</h3>
         {gripperTypes.length > 0 ? (
           <div>
             {gripperTypes.map((type) => (
@@ -138,7 +138,7 @@ const Sidebar = ({
               // </li>
               <div
               key={type}
-              className="flex gap-2 mb-3 cursor-pointer"
+              className="flex gap-1 md:gap-2 mb-3 cursor-pointer"
               onClick={() => gripHandleClick(type)}
             >
               <input
@@ -147,10 +147,10 @@ const Sidebar = ({
                 id={type}
                 checked={!!gripCheckedStates[type]} // Use the state for this checkbox
                 onChange={() => { }} // Prevent default checkbox behavior
-                className="accent-blue6 w-4 rounded-full"
+                className="accent-blue6 w-3 md:w-4 rounded-full"
               />
               <span
-                className={`font-inter font-medium text-sm ${gripCheckedStates[type] ? 'text-blue6' : 'text-gray9'
+                className={`font-inter font-medium text-xs md:text-sm ${gripCheckedStates[type] ? 'text-blue6' : 'text-gray9'
                   }`}
               >
                 {type}
