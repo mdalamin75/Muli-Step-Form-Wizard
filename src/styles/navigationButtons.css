@@ -1,0 +1,52 @@
+/* Button container styling */
+/* .button-container {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  } */
+  
+  /* Default button styling */
+  button {
+    padding: 12px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover and disabled states */
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  /* Previous button styling */
+  .previous-button {
+    background-color: #6c757d;
+    margin-right: auto;
+  }
+  
+  .previous-button:hover {
+    background-color: #5a6268;
+  }
+  
+  /* Responsive design (optional, if needed) */
+  @media (max-width: 768px) {
+    .button-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    button {
+      width: 100%;
+      margin: 5px 0;
+    }
+  }
+  

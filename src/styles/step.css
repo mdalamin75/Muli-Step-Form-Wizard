@@ -1,0 +1,53 @@
+.step {
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  color: #252F3F;
+  margin-right: -10px;
+}
+
+.step-subtitle {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+  color: #252F3F;
+}
+
+/* First step states */
+.step-first-active {
+  margin-left: 15px;
+  background-image: url('../assets/step-first.svg');
+}
+
+.step-first-post {
+  margin-left: 15px;
+  background-image: url('../assets/step-first-post.svg');
+}
+
+/* Middle step states */
+.step-mid-pre {
+  background-image: url('../assets/step-mid-pre.svg');
+}
+
+.step-mid-active {
+  background-image: url('../assets/step-mid-selected.svg');
+}
+
+.step-mid-post {
+  background-image: url('../assets/step-mid-post.svg');
+}
+
+/* Last step states */
+.step-last-pre {
+  background-image: url('../assets/step-last-pre.svg');
+}
+
+.step-last-active {
+  background-image: url('../assets/step-last-selected.svg');
+}

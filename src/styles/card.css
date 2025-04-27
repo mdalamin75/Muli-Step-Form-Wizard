@@ -1,0 +1,56 @@
+/* Card styling */
+.robot-card {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow for the card */
+  padding: 20px;
+  width: 80%;
+  max-width: 1000px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Flex container for left and right sections */
+.robot-card-content {
+  display: flex; /* Arrange left and right boxes side by side */
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Left section styling */
+.robot-card-box-left {
+  flex: 1; /* Allow this section to grow and take available space */
+}
+
+/* Details section of the card (text) */
+.robot-details h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.robot-details p {
+  margin: 5px 0;
+  color: #555;
+}
+
+/* Right section styling */
+.robot-card-box-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px; /* Space between text and image */
+}
+
+/* Image styling */
+/* .robot-image img {
+  max-width: 125px;
+  max-height: 125px;
+  object-fit: cover;
+  border-radius: 10px;
+} */
+
+/* Hover effect for the card */
+.robot-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Slight lift on hover */
+}
+

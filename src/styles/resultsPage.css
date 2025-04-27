@@ -1,0 +1,41 @@
+/* Results page layout */
+.result-stage {
+  display: flex;
+  flex-direction: column; /* Aligns top-bar and content vertically */
+  align-items: center; /* Centers the child elements horizontally */
+  justify-content: center; /* Centers the child elements vertically */
+  }
+    
+  /* Flexible container for sidebar and results */
+  .flex-container {
+    display: flex;
+    justify-content: center; /* Centers the sidebar and card container */
+    gap: 20px; /* Adds space between sidebar and card container */
+    max-width: 70%; /* Restrict the width for proper centering */
+    width: 100%;
+  }
+  
+  /* Top bar for search and filter */
+  /* .top-bar {
+    display: flex;
+    justify-content: center; /* Centers the search bar and filter dropdown */
+    /* gap: 20px; /* Adds space between search bar and filter dropdown */
+    /* width: 80%; */
+  /* } */ 
+  
+  /* Card container for filtered robots */
+  .card-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the left */
+    min-height: 300px; /* Ensure the container has enough height */
+    background-color: #fff; /* Optional: Add a background color for clarity */
+  }
+  
+  
+  .filtered-robots {
+    min-width: 650px;
+  }
+  

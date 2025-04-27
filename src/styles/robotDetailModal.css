@@ -1,0 +1,100 @@
+/* Modal overlay styling */
+.RobotDetailModal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+/* Modal content styling */
+.RobotDetailModal-content {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  min-width: 700px;
+  max-width: 1200px;
+  position: relative;
+}
+
+/* Container for close and bookmark buttons */
+.RobotDetailModal-buttons {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+}
+
+.RobotDetailModal-close-button, .RobotDetailModal-bookmark-button {
+  background-color: rgba(0, 123, 255, 0.3); /* Consistent transparent blue background */
+  border: none;
+  color: white;
+  font-size: 1.5rem;
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px; /* Define width to make it square */
+  height: 32px; /* Define height to make it square */
+  border-radius: 4px; /* Slightly rounded corners with units */
+}
+
+/* Hover effect for close and bookmark buttons */
+.RobotDetailModal-close-button:hover, .RobotDetailModal-bookmark-button:hover {
+  background-color: rgba(0, 123, 255, 0.5); /* Darker blue on hover */
+}
+
+/* Robot details section */
+.RobotDetailModal-details {
+  display: flex;
+  flex-direction: column;
+  min-width: 600px;
+}
+
+/* Title styling */
+.RobotDetailModal-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+/* Rating section styling */
+.RobotDetailModal-rating {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.RobotDetailModal-rating-text {
+  margin-left: 8px;
+  font-size: 1.1em;
+}
+
+/* Image section styling */
+.RobotDetailModal-images {
+  display: flex;
+  gap: 10px;
+}
+
+/* Individual image styling */
+.RobotDetailModal-images img {
+  max-width: 100%;
+  border-radius: 8px;
+}
+
+/* Download button styling */
+.RobotDetailModal-download-button {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

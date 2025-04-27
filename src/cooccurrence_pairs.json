@@ -1,0 +1,8802 @@
+[
+    {
+      "source": "program",
+      "target": "robot",
+      "count": 452
+    },
+    {
+      "source": "robot",
+      "target": "ur",
+      "count": 327
+    },
+    {
+      "source": "control",
+      "target": "robot",
+      "count": 238
+    },
+    {
+      "source": "robot",
+      "target": "trying",
+      "count": 219
+    },
+    {
+      "source": "robot",
+      "target": "tcp",
+      "count": 199
+    },
+    {
+      "source": "robot",
+      "target": "script",
+      "count": 189
+    },
+    {
+      "source": "robot",
+      "target": "rtde",
+      "count": 179
+    },
+    {
+      "source": "move",
+      "target": "robot",
+      "count": 175
+    },
+    {
+      "source": "mode",
+      "target": "robot",
+      "count": 173
+    },
+    {
+      "source": "command",
+      "target": "robot",
+      "count": 164
+    },
+    {
+      "source": "program",
+      "target": "script",
+      "count": 154
+    },
+    {
+      "source": "robot",
+      "target": "set",
+      "count": 154
+    },
+    {
+      "source": "controller",
+      "target": "robot",
+      "count": 152
+    },
+    {
+      "source": "robot",
+      "target": "send",
+      "count": 152
+    },
+    {
+      "source": "error",
+      "target": "robot",
+      "count": 151
+    },
+    {
+      "source": "file",
+      "target": "robot",
+      "count": 150
+    },
+    {
+      "source": "position",
+      "target": "robot",
+      "count": 150
+    },
+    {
+      "source": "data",
+      "target": "robot",
+      "count": 145
+    },
+    {
+      "source": "robot",
+      "target": "stop",
+      "count": 141
+    },
+    {
+      "source": "robot",
+      "target": "ur10e",
+      "count": 141
+    },
+    {
+      "source": "force",
+      "target": "robot",
+      "count": 137
+    },
+    {
+      "source": "program",
+      "target": "ur",
+      "count": 137
+    },
+    {
+      "source": "polyscope",
+      "target": "robot",
+      "count": 135
+    },
+    {
+      "source": "robot",
+      "target": "version",
+      "count": 135
+    },
+    {
+      "source": "robot",
+      "target": "ur5",
+      "count": 132
+    },
+    {
+      "source": "everyone",
+      "target": "robot",
+      "count": 129
+    },
+    {
+      "source": "joint",
+      "target": "robot",
+      "count": 129
+    },
+    {
+      "source": "robot",
+      "target": "tool",
+      "count": 128
+    },
+    {
+      "source": "robot",
+      "target": "robots",
+      "count": 122
+    },
+    {
+      "source": "python",
+      "target": "robot",
+      "count": 121
+    },
+    {
+      "source": "robot",
+      "target": "safety",
+      "count": 117
+    },
+    {
+      "source": "robot",
+      "target": "urcap",
+      "count": 116
+    },
+    {
+      "source": "code",
+      "target": "robot",
+      "count": 115
+    },
+    {
+      "source": "robots",
+      "target": "universal",
+      "count": 114
+    },
+    {
+      "source": "file",
+      "target": "program",
+      "count": 113
+    },
+    {
+      "source": "currently",
+      "target": "robot",
+      "count": 112
+    },
+    {
+      "source": "robot",
+      "target": "ur10",
+      "count": 112
+    },
+    {
+      "source": "robot",
+      "target": "universal",
+      "count": 111
+    },
+    {
+      "source": "pose",
+      "target": "robot",
+      "count": 110
+    },
+    {
+      "source": "plc",
+      "target": "robot",
+      "count": 109
+    },
+    {
+      "source": "kb",
+      "target": "robot",
+      "count": 106
+    },
+    {
+      "source": "robot",
+      "target": "server",
+      "count": 106
+    },
+    {
+      "source": "robot",
+      "target": "would",
+      "count": 106
+    },
+    {
+      "source": "connect",
+      "target": "robot",
+      "count": 104
+    },
+    {
+      "source": "interface",
+      "target": "robot",
+      "count": 104
+    },
+    {
+      "source": "ip",
+      "target": "robot",
+      "count": 103
+    },
+    {
+      "source": "robot",
+      "target": "ur5e",
+      "count": 103
+    },
+    {
+      "source": "pose",
+      "target": "tcp",
+      "count": 100
+    },
+    {
+      "source": "robot",
+      "target": "software",
+      "count": 100
+    },
+    {
+      "source": "function",
+      "target": "robot",
+      "count": 99
+    },
+    {
+      "source": "communication",
+      "target": "robot",
+      "count": 97
+    },
+    {
+      "source": "robot",
+      "target": "start",
+      "count": 97
+    },
+    {
+      "source": "robot",
+      "target": "series",
+      "count": 96
+    },
+    {
+      "source": "program",
+      "target": "trying",
+      "count": 95
+    },
+    {
+      "source": "remote",
+      "target": "robot",
+      "count": 95
+    },
+    {
+      "source": "robot",
+      "target": "socket",
+      "count": 95
+    },
+    {
+      "source": "program",
+      "target": "set",
+      "count": 94
+    },
+    {
+      "source": "client",
+      "target": "robot",
+      "count": 93
+    },
+    {
+      "source": "port",
+      "target": "robot",
+      "count": 93
+    },
+    {
+      "source": "data",
+      "target": "rtde",
+      "count": 91
+    },
+    {
+      "source": "command",
+      "target": "program",
+      "count": 90
+    },
+    {
+      "source": "move",
+      "target": "program",
+      "count": 90
+    },
+    {
+      "source": "robot",
+      "target": "via",
+      "count": 90
+    },
+    {
+      "source": "input",
+      "target": "robot",
+      "count": 88
+    },
+    {
+      "source": "polyscope",
+      "target": "program",
+      "count": 88
+    },
+    {
+      "source": "read",
+      "target": "robot",
+      "count": 88
+    },
+    {
+      "source": "send",
+      "target": "socket",
+      "count": 88
+    },
+    {
+      "source": "end",
+      "target": "robot",
+      "count": 87
+    },
+    {
+      "source": "program",
+      "target": "variable",
+      "count": 87
+    },
+    {
+      "source": "pendant",
+      "target": "teach",
+      "count": 84
+    },
+    {
+      "source": "robot",
+      "target": "urscript",
+      "count": 84
+    },
+    {
+      "source": "code",
+      "target": "program",
+      "count": 83
+    },
+    {
+      "source": "output",
+      "target": "robot",
+      "count": 83
+    },
+    {
+      "source": "control",
+      "target": "ur",
+      "count": 82
+    },
+    {
+      "source": "project",
+      "target": "robot",
+      "count": 82
+    },
+    {
+      "source": "robots",
+      "target": "ur",
+      "count": 82
+    },
+    {
+      "source": "script",
+      "target": "ur",
+      "count": 82
+    },
+    {
+      "source": "command",
+      "target": "send",
+      "count": 81
+    },
+    {
+      "source": "installation",
+      "target": "program",
+      "count": 81
+    },
+    {
+      "source": "3",
+      "target": "robot",
+      "count": 80
+    },
+    {
+      "source": "application",
+      "target": "robot",
+      "count": 80
+    },
+    {
+      "source": "file",
+      "target": "script",
+      "count": 80
+    },
+    {
+      "source": "tcp",
+      "target": "trying",
+      "count": 80
+    },
+    {
+      "source": "connected",
+      "target": "robot",
+      "count": 79
+    },
+    {
+      "source": "dashboard",
+      "target": "robot",
+      "count": 79
+    },
+    {
+      "source": "change",
+      "target": "robot",
+      "count": 78
+    },
+    {
+      "source": "python",
+      "target": "rtde",
+      "count": 78
+    },
+    {
+      "source": "5",
+      "target": "robot",
+      "count": 77
+    },
+    {
+      "source": "connection",
+      "target": "robot",
+      "count": 77
+    },
+    {
+      "source": "make",
+      "target": "robot",
+      "count": 77
+    },
+    {
+      "source": "arm",
+      "target": "robot",
+      "count": 76
+    },
+    {
+      "source": "cb3",
+      "target": "robot",
+      "count": 76
+    },
+    {
+      "source": "dashboard",
+      "target": "server",
+      "count": 76
+    },
+    {
+      "source": "force",
+      "target": "mode",
+      "count": 76
+    },
+    {
+      "source": "get",
+      "target": "robot",
+      "count": 76
+    },
+    {
+      "source": "installation",
+      "target": "robot",
+      "count": 76
+    },
+    {
+      "source": "program",
+      "target": "send",
+      "count": 76
+    },
+    {
+      "source": "robot",
+      "target": "system",
+      "count": 75
+    },
+    {
+      "source": "control",
+      "target": "rtde",
+      "count": 74
+    },
+    {
+      "source": "digital",
+      "target": "robot",
+      "count": 74
+    },
+    {
+      "source": "robot",
+      "target": "teach",
+      "count": 74
+    },
+    {
+      "source": "actual",
+      "target": "robot",
+      "count": 73
+    },
+    {
+      "source": "commands",
+      "target": "robot",
+      "count": 73
+    },
+    {
+      "source": "error",
+      "target": "program",
+      "count": 73
+    },
+    {
+      "source": "tcp",
+      "target": "tool",
+      "count": 73
+    },
+    {
+      "source": "actual",
+      "target": "tcp",
+      "count": 72
+    },
+    {
+      "source": "position",
+      "target": "program",
+      "count": 72
+    },
+    {
+      "source": "program",
+      "target": "stop",
+      "count": 72
+    },
+    {
+      "source": "software",
+      "target": "version",
+      "count": 72
+    },
+    {
+      "source": "tcp",
+      "target": "ur",
+      "count": 72
+    },
+    {
+      "source": "command",
+      "target": "script",
+      "count": 71
+    },
+    {
+      "source": "control",
+      "target": "remote",
+      "count": 71
+    },
+    {
+      "source": "digital",
+      "target": "output",
+      "count": 71
+    },
+    {
+      "source": "pendant",
+      "target": "robot",
+      "count": 71
+    },
+    {
+      "source": "point",
+      "target": "robot",
+      "count": 71
+    },
+    {
+      "source": "power",
+      "target": "robot",
+      "count": 71
+    },
+    {
+      "source": "program",
+      "target": "tcp",
+      "count": 71
+    },
+    {
+      "source": "program",
+      "target": "urcap",
+      "count": 71
+    },
+    {
+      "source": "control",
+      "target": "trying",
+      "count": 70
+    },
+    {
+      "source": "code",
+      "target": "script",
+      "count": 69
+    },
+    {
+      "source": "position",
+      "target": "tcp",
+      "count": 69
+    },
+    {
+      "source": "program",
+      "target": "start",
+      "count": 69
+    },
+    {
+      "source": "program",
+      "target": "urscript",
+      "count": 69
+    },
+    {
+      "source": "robot",
+      "target": "work",
+      "count": 69
+    },
+    {
+      "source": "10",
+      "target": "robot",
+      "count": 68
+    },
+    {
+      "source": "force",
+      "target": "sensor",
+      "count": 68
+    },
+    {
+      "source": "move",
+      "target": "pose",
+      "count": 68
+    },
+    {
+      "source": "control",
+      "target": "program",
+      "count": 67
+    },
+    {
+      "source": "modbus",
+      "target": "robot",
+      "count": 67
+    },
+    {
+      "source": "robot",
+      "target": "waypoint",
+      "count": 67
+    },
+    {
+      "source": "program",
+      "target": "socket",
+      "count": 66
+    },
+    {
+      "source": "robot",
+      "target": "speed",
+      "count": 66
+    },
+    {
+      "source": "ethernet",
+      "target": "robot",
+      "count": 65
+    },
+    {
+      "source": "move",
+      "target": "position",
+      "count": 65
+    },
+    {
+      "source": "move",
+      "target": "tcp",
+      "count": 65
+    },
+    {
+      "source": "robot",
+      "target": "variable",
+      "count": 65
+    },
+    {
+      "source": "actual",
+      "target": "pose",
+      "count": 64
+    },
+    {
+      "source": "current",
+      "target": "robot",
+      "count": 64
+    },
+    {
+      "source": "external",
+      "target": "robot",
+      "count": 64
+    },
+    {
+      "source": "movel",
+      "target": "robot",
+      "count": 64
+    },
+    {
+      "source": "rtde",
+      "target": "trying",
+      "count": 64
+    },
+    {
+      "source": "trying",
+      "target": "ur",
+      "count": 64
+    },
+    {
+      "source": "e",
+      "target": "robot",
+      "count": 63
+    },
+    {
+      "source": "3",
+      "target": "version",
+      "count": 62
+    },
+    {
+      "source": "function",
+      "target": "script",
+      "count": 62
+    },
+    {
+      "source": "code",
+      "target": "ur",
+      "count": 61
+    },
+    {
+      "source": "robot",
+      "target": "sensor",
+      "count": 61
+    },
+    {
+      "source": "controller",
+      "target": "ur",
+      "count": 60
+    },
+    {
+      "source": "input",
+      "target": "program",
+      "count": 60
+    },
+    {
+      "source": "mode",
+      "target": "program",
+      "count": 60
+    },
+    {
+      "source": "robot",
+      "target": "ursim",
+      "count": 60
+    },
+    {
+      "source": "rtde",
+      "target": "ur",
+      "count": 60
+    },
+    {
+      "source": "set",
+      "target": "tcp",
+      "count": 60
+    },
+    {
+      "source": "base",
+      "target": "robot",
+      "count": 59
+    },
+    {
+      "source": "data",
+      "target": "ur",
+      "count": 59
+    },
+    {
+      "source": "digital",
+      "target": "program",
+      "count": 59
+    },
+    {
+      "source": "polyscope",
+      "target": "version",
+      "count": 59
+    },
+    {
+      "source": "data",
+      "target": "trying",
+      "count": 58
+    },
+    {
+      "source": "digital",
+      "target": "set",
+      "count": 58
+    },
+    {
+      "source": "e",
+      "target": "series",
+      "count": 58
+    },
+    {
+      "source": "ethernet",
+      "target": "ip",
+      "count": 58
+    },
+    {
+      "source": "real",
+      "target": "robot",
+      "count": 58
+    },
+    {
+      "source": "button",
+      "target": "robot",
+      "count": 57
+    },
+    {
+      "source": "communication",
+      "target": "ur",
+      "count": 57
+    },
+    {
+      "source": "data",
+      "target": "send",
+      "count": 57
+    },
+    {
+      "source": "ip",
+      "target": "tcp",
+      "count": 57
+    },
+    {
+      "source": "code",
+      "target": "trying",
+      "count": 56
+    },
+    {
+      "source": "program",
+      "target": "version",
+      "count": 56
+    },
+    {
+      "source": "5",
+      "target": "version",
+      "count": 55
+    },
+    {
+      "source": "axis",
+      "target": "robot",
+      "count": 55
+    },
+    {
+      "source": "code",
+      "target": "error",
+      "count": 55
+    },
+    {
+      "source": "data",
+      "target": "tcp",
+      "count": 55
+    },
+    {
+      "source": "force",
+      "target": "tcp",
+      "count": 55
+    },
+    {
+      "source": "gripper",
+      "target": "robot",
+      "count": 55
+    },
+    {
+      "source": "manual",
+      "target": "robot",
+      "count": 55
+    },
+    {
+      "source": "message",
+      "target": "robot",
+      "count": 55
+    },
+    {
+      "source": "robot",
+      "target": "update",
+      "count": 55
+    },
+    {
+      "source": "rtde",
+      "target": "tcp",
+      "count": 55
+    },
+    {
+      "source": "send",
+      "target": "ur",
+      "count": 55
+    },
+    {
+      "source": "file",
+      "target": "files",
+      "count": 54
+    },
+    {
+      "source": "file",
+      "target": "installation",
+      "count": 54
+    },
+    {
+      "source": "modbus",
+      "target": "ur",
+      "count": 54
+    },
+    {
+      "source": "program",
+      "target": "robots",
+      "count": 54
+    },
+    {
+      "source": "socket",
+      "target": "trying",
+      "count": 54
+    },
+    {
+      "source": "universal",
+      "target": "ur",
+      "count": 54
+    },
+    {
+      "source": "1",
+      "target": "robot",
+      "count": 53
+    },
+    {
+      "source": "5",
+      "target": "polyscope",
+      "count": 53
+    },
+    {
+      "source": "box",
+      "target": "robot",
+      "count": 53
+    },
+    {
+      "source": "com",
+      "target": "robot",
+      "count": 53
+    },
+    {
+      "source": "control",
+      "target": "controller",
+      "count": 53
+    },
+    {
+      "source": "end",
+      "target": "program",
+      "count": 53
+    },
+    {
+      "source": "example",
+      "target": "robot",
+      "count": 53
+    },
+    {
+      "source": "find",
+      "target": "robot",
+      "count": 53
+    },
+    {
+      "source": "function",
+      "target": "program",
+      "count": 53
+    },
+    {
+      "source": "interface",
+      "target": "rtde",
+      "count": 53
+    },
+    {
+      "source": "pose",
+      "target": "position",
+      "count": 53
+    },
+    {
+      "source": "program",
+      "target": "ur10",
+      "count": 53
+    },
+    {
+      "source": "control",
+      "target": "mode",
+      "count": 52
+    },
+    {
+      "source": "feature",
+      "target": "pose",
+      "count": 52
+    },
+    {
+      "source": "file",
+      "target": "ur",
+      "count": 52
+    },
+    {
+      "source": "mode",
+      "target": "remote",
+      "count": 52
+    },
+    {
+      "source": "plc",
+      "target": "ur",
+      "count": 52
+    },
+    {
+      "source": "polyscope",
+      "target": "ur",
+      "count": 52
+    },
+    {
+      "source": "pose",
+      "target": "trans",
+      "count": 52
+    },
+    {
+      "source": "program",
+      "target": "thread",
+      "count": 52
+    },
+    {
+      "source": "robot",
+      "target": "thread",
+      "count": 52
+    },
+    {
+      "source": "rtde",
+      "target": "send",
+      "count": 52
+    },
+    {
+      "source": "script",
+      "target": "send",
+      "count": 52
+    },
+    {
+      "source": "script",
+      "target": "trying",
+      "count": 52
+    },
+    {
+      "source": "11",
+      "target": "robot",
+      "count": 51
+    },
+    {
+      "source": "address",
+      "target": "robot",
+      "count": 51
+    },
+    {
+      "source": "camera",
+      "target": "robot",
+      "count": 51
+    },
+    {
+      "source": "command",
+      "target": "trying",
+      "count": 51
+    },
+    {
+      "source": "data",
+      "target": "socket",
+      "count": 51
+    },
+    {
+      "source": "different",
+      "target": "robot",
+      "count": 51
+    },
+    {
+      "source": "movej",
+      "target": "robot",
+      "count": 51
+    },
+    {
+      "source": "python",
+      "target": "script",
+      "count": 51
+    },
+    {
+      "source": "best",
+      "target": "robot",
+      "count": 50
+    },
+    {
+      "source": "data",
+      "target": "port",
+      "count": 50
+    },
+    {
+      "source": "everyone",
+      "target": "program",
+      "count": 50
+    },
+    {
+      "source": "file",
+      "target": "urp",
+      "count": 50
+    },
+    {
+      "source": "interface",
+      "target": "ur",
+      "count": 50
+    },
+    {
+      "source": "pc",
+      "target": "robot",
+      "count": 50
+    },
+    {
+      "source": "script",
+      "target": "tcp",
+      "count": 50
+    },
+    {
+      "source": "send",
+      "target": "trying",
+      "count": 50
+    },
+    {
+      "source": "server",
+      "target": "ur",
+      "count": 50
+    },
+    {
+      "source": "change",
+      "target": "program",
+      "count": 49
+    },
+    {
+      "source": "error",
+      "target": "trying",
+      "count": 49
+    },
+    {
+      "source": "get",
+      "target": "trying",
+      "count": 49
+    },
+    {
+      "source": "12",
+      "target": "robot",
+      "count": 48
+    },
+    {
+      "source": "move",
+      "target": "tool",
+      "count": 48
+    },
+    {
+      "source": "pose",
+      "target": "program",
+      "count": 48
+    },
+    {
+      "source": "program",
+      "target": "rtde",
+      "count": 48
+    },
+    {
+      "source": "program",
+      "target": "urp",
+      "count": 48
+    },
+    {
+      "source": "command",
+      "target": "move",
+      "count": 47
+    },
+    {
+      "source": "command",
+      "target": "tcp",
+      "count": 47
+    },
+    {
+      "source": "connect",
+      "target": "trying",
+      "count": 47
+    },
+    {
+      "source": "currently",
+      "target": "program",
+      "count": 47
+    },
+    {
+      "source": "feature",
+      "target": "plane",
+      "count": 47
+    },
+    {
+      "source": "feature",
+      "target": "robot",
+      "count": 47
+    },
+    {
+      "source": "ip",
+      "target": "trying",
+      "count": 47
+    },
+    {
+      "source": "node",
+      "target": "program",
+      "count": 47
+    },
+    {
+      "source": "program",
+      "target": "programs",
+      "count": 47
+    },
+    {
+      "source": "program",
+      "target": "server",
+      "count": 47
+    },
+    {
+      "source": "protective",
+      "target": "stop",
+      "count": 47
+    },
+    {
+      "source": "robot",
+      "target": "values",
+      "count": 47
+    },
+    {
+      "source": "safety",
+      "target": "stop",
+      "count": 47
+    },
+    {
+      "source": "script",
+      "target": "set",
+      "count": 47
+    },
+    {
+      "source": "behavior",
+      "target": "robot",
+      "count": 46
+    },
+    {
+      "source": "control",
+      "target": "tcp",
+      "count": 46
+    },
+    {
+      "source": "controller",
+      "target": "program",
+      "count": 46
+    },
+    {
+      "source": "profinet",
+      "target": "robot",
+      "count": 46
+    },
+    {
+      "source": "program",
+      "target": "variables",
+      "count": 46
+    },
+    {
+      "source": "register",
+      "target": "robot",
+      "count": 46
+    },
+    {
+      "source": "reproduce",
+      "target": "steps",
+      "count": 46
+    },
+    {
+      "source": "commands",
+      "target": "send",
+      "count": 45
+    },
+    {
+      "source": "control",
+      "target": "script",
+      "count": 45
+    },
+    {
+      "source": "create",
+      "target": "program",
+      "count": 45
+    },
+    {
+      "source": "end",
+      "target": "script",
+      "count": 45
+    },
+    {
+      "source": "example",
+      "target": "program",
+      "count": 45
+    },
+    {
+      "source": "make",
+      "target": "program",
+      "count": 45
+    },
+    {
+      "source": "modbus",
+      "target": "tcp",
+      "count": 45
+    },
+    {
+      "source": "mode",
+      "target": "safety",
+      "count": 45
+    },
+    {
+      "source": "one",
+      "target": "robot",
+      "count": 45
+    },
+    {
+      "source": "output",
+      "target": "set",
+      "count": 45
+    },
+    {
+      "source": "polyscope",
+      "target": "script",
+      "count": 45
+    },
+    {
+      "source": "port",
+      "target": "program",
+      "count": 45
+    },
+    {
+      "source": "program",
+      "target": "waypoint",
+      "count": 45
+    },
+    {
+      "source": "python",
+      "target": "trying",
+      "count": 45
+    },
+    {
+      "source": "set",
+      "target": "ur",
+      "count": 45
+    },
+    {
+      "source": "11",
+      "target": "5",
+      "count": 44
+    },
+    {
+      "source": "client",
+      "target": "rtde",
+      "count": 44
+    },
+    {
+      "source": "command",
+      "target": "ur",
+      "count": 44
+    },
+    {
+      "source": "communicate",
+      "target": "robot",
+      "count": 44
+    },
+    {
+      "source": "connect",
+      "target": "ur",
+      "count": 44
+    },
+    {
+      "source": "digital",
+      "target": "input",
+      "count": 44
+    },
+    {
+      "source": "force",
+      "target": "trying",
+      "count": 44
+    },
+    {
+      "source": "interface",
+      "target": "program",
+      "count": 44
+    },
+    {
+      "source": "moving",
+      "target": "robot",
+      "count": 44
+    },
+    {
+      "source": "payload",
+      "target": "robot",
+      "count": 44
+    },
+    {
+      "source": "plane",
+      "target": "robot",
+      "count": 44
+    },
+    {
+      "source": "port",
+      "target": "trying",
+      "count": 44
+    },
+    {
+      "source": "robot",
+      "target": "ur3e",
+      "count": 44
+    },
+    {
+      "source": "ur",
+      "target": "urcap",
+      "count": 44
+    },
+    {
+      "source": "3",
+      "target": "program",
+      "count": 43
+    },
+    {
+      "source": "dashboard",
+      "target": "program",
+      "count": 43
+    },
+    {
+      "source": "data",
+      "target": "read",
+      "count": 43
+    },
+    {
+      "source": "files",
+      "target": "robot",
+      "count": 43
+    },
+    {
+      "source": "force",
+      "target": "program",
+      "count": 43
+    },
+    {
+      "source": "joint",
+      "target": "position",
+      "count": 43
+    },
+    {
+      "source": "kb",
+      "target": "program",
+      "count": 43
+    },
+    {
+      "source": "log",
+      "target": "robot",
+      "count": 43
+    },
+    {
+      "source": "mode",
+      "target": "set",
+      "count": 43
+    },
+    {
+      "source": "part",
+      "target": "program",
+      "count": 43
+    },
+    {
+      "source": "part",
+      "target": "robot",
+      "count": 43
+    },
+    {
+      "source": "program",
+      "target": "ur5e",
+      "count": 43
+    },
+    {
+      "source": "robot",
+      "target": "signal",
+      "count": 43
+    },
+    {
+      "source": "add",
+      "target": "robot",
+      "count": 42
+    },
+    {
+      "source": "base",
+      "target": "pose",
+      "count": 42
+    },
+    {
+      "source": "cb3",
+      "target": "ur10",
+      "count": 42
+    },
+    {
+      "source": "code",
+      "target": "file",
+      "count": 42
+    },
+    {
+      "source": "command",
+      "target": "control",
+      "count": 42
+    },
+    {
+      "source": "control",
+      "target": "python",
+      "count": 42
+    },
+    {
+      "source": "data",
+      "target": "python",
+      "count": 42
+    },
+    {
+      "source": "line",
+      "target": "robot",
+      "count": 42
+    },
+    {
+      "source": "modbus",
+      "target": "server",
+      "count": 42
+    },
+    {
+      "source": "node",
+      "target": "robot",
+      "count": 42
+    },
+    {
+      "source": "pose",
+      "target": "script",
+      "count": 42
+    },
+    {
+      "source": "robot",
+      "target": "ur3",
+      "count": 42
+    },
+    {
+      "source": "series",
+      "target": "ur",
+      "count": 42
+    },
+    {
+      "source": "set",
+      "target": "trying",
+      "count": 42
+    },
+    {
+      "source": "socket",
+      "target": "ur",
+      "count": 42
+    },
+    {
+      "source": "ur",
+      "target": "version",
+      "count": 42
+    },
+    {
+      "source": "box",
+      "target": "control",
+      "count": 41
+    },
+    {
+      "source": "button",
+      "target": "program",
+      "count": 41
+    },
+    {
+      "source": "cobot",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "command",
+      "target": "socket",
+      "count": 41
+    },
+    {
+      "source": "create",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "error",
+      "target": "polyscope",
+      "count": 41
+    },
+    {
+      "source": "error",
+      "target": "ur",
+      "count": 41
+    },
+    {
+      "source": "feature",
+      "target": "move",
+      "count": 41
+    },
+    {
+      "source": "inverse",
+      "target": "kin",
+      "count": 41
+    },
+    {
+      "source": "mode",
+      "target": "ur",
+      "count": 41
+    },
+    {
+      "source": "move",
+      "target": "point",
+      "count": 41
+    },
+    {
+      "source": "move",
+      "target": "script",
+      "count": 41
+    },
+    {
+      "source": "movement",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "path",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "program",
+      "target": "remote",
+      "count": 41
+    },
+    {
+      "source": "program",
+      "target": "software",
+      "count": 41
+    },
+    {
+      "source": "program",
+      "target": "ur5",
+      "count": 41
+    },
+    {
+      "source": "programs",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "python",
+      "target": "socket",
+      "count": 41
+    },
+    {
+      "source": "registers",
+      "target": "robot",
+      "count": 41
+    },
+    {
+      "source": "robot",
+      "target": "value",
+      "count": 41
+    },
+    {
+      "source": "send",
+      "target": "tcp",
+      "count": 41
+    },
+    {
+      "source": "address",
+      "target": "ip",
+      "count": 40
+    },
+    {
+      "source": "client",
+      "target": "data",
+      "count": 40
+    },
+    {
+      "source": "error",
+      "target": "kb",
+      "count": 40
+    },
+    {
+      "source": "following",
+      "target": "robot",
+      "count": 40
+    },
+    {
+      "source": "function",
+      "target": "pose",
+      "count": 40
+    },
+    {
+      "source": "line",
+      "target": "program",
+      "count": 40
+    },
+    {
+      "source": "port",
+      "target": "send",
+      "count": 40
+    },
+    {
+      "source": "port",
+      "target": "socket",
+      "count": 40
+    },
+    {
+      "source": "program",
+      "target": "ur10e",
+      "count": 40
+    },
+    {
+      "source": "program",
+      "target": "would",
+      "count": 40
+    },
+    {
+      "source": "python",
+      "target": "send",
+      "count": 40
+    },
+    {
+      "source": "python",
+      "target": "ur",
+      "count": 40
+    },
+    {
+      "source": "robot",
+      "target": "steps",
+      "count": 40
+    },
+    {
+      "source": "script",
+      "target": "socket",
+      "count": 40
+    },
+    {
+      "source": "code",
+      "target": "tcp",
+      "count": 39
+    },
+    {
+      "source": "com",
+      "target": "ur",
+      "count": 39
+    },
+    {
+      "source": "communication",
+      "target": "socket",
+      "count": 39
+    },
+    {
+      "source": "data",
+      "target": "interface",
+      "count": 39
+    },
+    {
+      "source": "file",
+      "target": "polyscope",
+      "count": 39
+    },
+    {
+      "source": "image",
+      "target": "robot",
+      "count": 39
+    },
+    {
+      "source": "input",
+      "target": "rtde",
+      "count": 39
+    },
+    {
+      "source": "interface",
+      "target": "primary",
+      "count": 39
+    },
+    {
+      "source": "loop",
+      "target": "robot",
+      "count": 39
+    },
+    {
+      "source": "main",
+      "target": "program",
+      "count": 39
+    },
+    {
+      "source": "output",
+      "target": "rtde",
+      "count": 39
+    },
+    {
+      "source": "plc",
+      "target": "profinet",
+      "count": 39
+    },
+    {
+      "source": "pose",
+      "target": "trying",
+      "count": 39
+    },
+    {
+      "source": "program",
+      "target": "waypoints",
+      "count": 39
+    },
+    {
+      "source": "register",
+      "target": "rtde",
+      "count": 39
+    },
+    {
+      "source": "robot",
+      "target": "setup",
+      "count": 39
+    },
+    {
+      "source": "robot",
+      "target": "state",
+      "count": 39
+    },
+    {
+      "source": "robot",
+      "target": "usb",
+      "count": 39
+    },
+    {
+      "source": "script",
+      "target": "urcap",
+      "count": 39
+    },
+    {
+      "source": "script",
+      "target": "urscript",
+      "count": 39
+    },
+    {
+      "source": "socket",
+      "target": "tcp",
+      "count": 39
+    },
+    {
+      "source": "trying",
+      "target": "urcap",
+      "count": 39
+    },
+    {
+      "source": "code",
+      "target": "send",
+      "count": 38
+    },
+    {
+      "source": "connect",
+      "target": "control",
+      "count": 38
+    },
+    {
+      "source": "control",
+      "target": "send",
+      "count": 38
+    },
+    {
+      "source": "currently",
+      "target": "ur",
+      "count": 38
+    },
+    {
+      "source": "data",
+      "target": "program",
+      "count": 38
+    },
+    {
+      "source": "dear",
+      "target": "robot",
+      "count": 38
+    },
+    {
+      "source": "error",
+      "target": "version",
+      "count": 38
+    },
+    {
+      "source": "file",
+      "target": "trying",
+      "count": 38
+    },
+    {
+      "source": "files",
+      "target": "program",
+      "count": 38
+    },
+    {
+      "source": "freedrive",
+      "target": "robot",
+      "count": 38
+    },
+    {
+      "source": "information",
+      "target": "robot",
+      "count": 38
+    },
+    {
+      "source": "input",
+      "target": "register",
+      "count": 38
+    },
+    {
+      "source": "pick",
+      "target": "robot",
+      "count": 38
+    },
+    {
+      "source": "plc",
+      "target": "program",
+      "count": 38
+    },
+    {
+      "source": "port",
+      "target": "rtde",
+      "count": 38
+    },
+    {
+      "source": "port",
+      "target": "ur",
+      "count": 38
+    },
+    {
+      "source": "program",
+      "target": "python",
+      "count": 38
+    },
+    {
+      "source": "remote",
+      "target": "ur",
+      "count": 38
+    },
+    {
+      "source": "robot",
+      "target": "used",
+      "count": 38
+    },
+    {
+      "source": "add",
+      "target": "program",
+      "count": 37
+    },
+    {
+      "source": "base",
+      "target": "tcp",
+      "count": 37
+    },
+    {
+      "source": "client",
+      "target": "ur",
+      "count": 37
+    },
+    {
+      "source": "error",
+      "target": "script",
+      "count": 37
+    },
+    {
+      "source": "force",
+      "target": "tool",
+      "count": 37
+    },
+    {
+      "source": "freedrive",
+      "target": "mode",
+      "count": 37
+    },
+    {
+      "source": "manual",
+      "target": "mode",
+      "count": 37
+    },
+    {
+      "source": "move",
+      "target": "set",
+      "count": 37
+    },
+    {
+      "source": "move",
+      "target": "trying",
+      "count": 37
+    },
+    {
+      "source": "number",
+      "target": "robot",
+      "count": 37
+    },
+    {
+      "source": "output",
+      "target": "program",
+      "count": 37
+    },
+    {
+      "source": "points",
+      "target": "robot",
+      "count": 37
+    },
+    {
+      "source": "port",
+      "target": "script",
+      "count": 37
+    },
+    {
+      "source": "pose",
+      "target": "waypoint",
+      "count": 37
+    },
+    {
+      "source": "program",
+      "target": "tool",
+      "count": 37
+    },
+    {
+      "source": "read",
+      "target": "rtde",
+      "count": 37
+    },
+    {
+      "source": "robot",
+      "target": "two",
+      "count": 37
+    },
+    {
+      "source": "robot",
+      "target": "waypoints",
+      "count": 37
+    },
+    {
+      "source": "set",
+      "target": "variable",
+      "count": 37
+    },
+    {
+      "source": "socket",
+      "target": "string",
+      "count": 37
+    },
+    {
+      "source": "trying",
+      "target": "ur5e",
+      "count": 37
+    },
+    {
+      "source": "1",
+      "target": "version",
+      "count": 36
+    },
+    {
+      "source": "10",
+      "target": "program",
+      "count": 36
+    },
+    {
+      "source": "behavior",
+      "target": "steps",
+      "count": 36
+    },
+    {
+      "source": "case",
+      "target": "robot",
+      "count": 36
+    },
+    {
+      "source": "client",
+      "target": "program",
+      "count": 36
+    },
+    {
+      "source": "command",
+      "target": "mode",
+      "count": 36
+    },
+    {
+      "source": "command",
+      "target": "rtde",
+      "count": 36
+    },
+    {
+      "source": "command",
+      "target": "set",
+      "count": 36
+    },
+    {
+      "source": "control",
+      "target": "data",
+      "count": 36
+    },
+    {
+      "source": "control",
+      "target": "ur5e",
+      "count": 36
+    },
+    {
+      "source": "device",
+      "target": "robot",
+      "count": 36
+    },
+    {
+      "source": "error",
+      "target": "file",
+      "count": 36
+    },
+    {
+      "source": "error",
+      "target": "message",
+      "count": 36
+    },
+    {
+      "source": "machine",
+      "target": "robot",
+      "count": 36
+    },
+    {
+      "source": "mode",
+      "target": "script",
+      "count": 36
+    },
+    {
+      "source": "open",
+      "target": "robot",
+      "count": 36
+    },
+    {
+      "source": "protective",
+      "target": "robot",
+      "count": 36
+    },
+    {
+      "source": "read",
+      "target": "socket",
+      "count": 36
+    },
+    {
+      "source": "read",
+      "target": "trying",
+      "count": 36
+    },
+    {
+      "source": "rtde",
+      "target": "script",
+      "count": 36
+    },
+    {
+      "source": "script",
+      "target": "variable",
+      "count": 36
+    },
+    {
+      "source": "server",
+      "target": "socket",
+      "count": 36
+    },
+    {
+      "source": "trying",
+      "target": "urscript",
+      "count": 36
+    },
+    {
+      "source": "0",
+      "target": "robot",
+      "count": 35
+    },
+    {
+      "source": "application",
+      "target": "program",
+      "count": 35
+    },
+    {
+      "source": "cb3",
+      "target": "program",
+      "count": 35
+    },
+    {
+      "source": "client",
+      "target": "server",
+      "count": 35
+    },
+    {
+      "source": "control",
+      "target": "force",
+      "count": 35
+    },
+    {
+      "source": "control",
+      "target": "joint",
+      "count": 35
+    },
+    {
+      "source": "control",
+      "target": "robots",
+      "count": 35
+    },
+    {
+      "source": "control",
+      "target": "set",
+      "count": 35
+    },
+    {
+      "source": "currently",
+      "target": "trying",
+      "count": 35
+    },
+    {
+      "source": "direction",
+      "target": "robot",
+      "count": 35
+    },
+    {
+      "source": "end",
+      "target": "thread",
+      "count": 35
+    },
+    {
+      "source": "input",
+      "target": "output",
+      "count": 35
+    },
+    {
+      "source": "interface",
+      "target": "send",
+      "count": 35
+    },
+    {
+      "source": "mode",
+      "target": "trying",
+      "count": 35
+    },
+    {
+      "source": "move",
+      "target": "ur",
+      "count": 35
+    },
+    {
+      "source": "point",
+      "target": "pose",
+      "count": 35
+    },
+    {
+      "source": "port",
+      "target": "server",
+      "count": 35
+    },
+    {
+      "source": "primary",
+      "target": "robot",
+      "count": 35
+    },
+    {
+      "source": "program",
+      "target": "read",
+      "count": 35
+    },
+    {
+      "source": "read",
+      "target": "tcp",
+      "count": 35
+    },
+    {
+      "source": "robot",
+      "target": "screen",
+      "count": 35
+    },
+    {
+      "source": "send",
+      "target": "urscript",
+      "count": 35
+    },
+    {
+      "source": "software",
+      "target": "ur",
+      "count": 35
+    },
+    {
+      "source": "tcp",
+      "target": "via",
+      "count": 35
+    },
+    {
+      "source": "ursim",
+      "target": "version",
+      "count": 35
+    },
+    {
+      "source": "access",
+      "target": "robot",
+      "count": 34
+    },
+    {
+      "source": "behavior",
+      "target": "reproduce",
+      "count": 34
+    },
+    {
+      "source": "calibration",
+      "target": "robot",
+      "count": 34
+    },
+    {
+      "source": "code",
+      "target": "control",
+      "count": 34
+    },
+    {
+      "source": "code",
+      "target": "python",
+      "count": 34
+    },
+    {
+      "source": "communication",
+      "target": "modbus",
+      "count": 34
+    },
+    {
+      "source": "control",
+      "target": "interface",
+      "count": 34
+    },
+    {
+      "source": "external",
+      "target": "program",
+      "count": 34
+    },
+    {
+      "source": "force",
+      "target": "move",
+      "count": 34
+    },
+    {
+      "source": "ip",
+      "target": "plc",
+      "count": 34
+    },
+    {
+      "source": "remote",
+      "target": "tcp",
+      "count": 34
+    },
+    {
+      "source": "robot",
+      "target": "target",
+      "count": 34
+    },
+    {
+      "source": "robot",
+      "target": "type",
+      "count": 34
+    },
+    {
+      "source": "3",
+      "target": "software",
+      "count": 33
+    },
+    {
+      "source": "client",
+      "target": "send",
+      "count": 33
+    },
+    {
+      "source": "code",
+      "target": "command",
+      "count": 33
+    },
+    {
+      "source": "code",
+      "target": "rtde",
+      "count": 33
+    },
+    {
+      "source": "code",
+      "target": "set",
+      "count": 33
+    },
+    {
+      "source": "command",
+      "target": "commands",
+      "count": 33
+    },
+    {
+      "source": "connection",
+      "target": "socket",
+      "count": 33
+    },
+    {
+      "source": "connection",
+      "target": "ur",
+      "count": 33
+    },
+    {
+      "source": "control",
+      "target": "digital",
+      "count": 33
+    },
+    {
+      "source": "dashboard",
+      "target": "port",
+      "count": 33
+    },
+    {
+      "source": "everyone",
+      "target": "ur",
+      "count": 33
+    },
+    {
+      "source": "feature",
+      "target": "program",
+      "count": 33
+    },
+    {
+      "source": "force",
+      "target": "torque",
+      "count": 33
+    },
+    {
+      "source": "function",
+      "target": "trying",
+      "count": 33
+    },
+    {
+      "source": "function",
+      "target": "ur",
+      "count": 33
+    },
+    {
+      "source": "get",
+      "target": "tcp",
+      "count": 33
+    },
+    {
+      "source": "got",
+      "target": "robot",
+      "count": 33
+    },
+    {
+      "source": "ip",
+      "target": "ur",
+      "count": 33
+    },
+    {
+      "source": "network",
+      "target": "robot",
+      "count": 33
+    },
+    {
+      "source": "open",
+      "target": "program",
+      "count": 33
+    },
+    {
+      "source": "plane",
+      "target": "pose",
+      "count": 33
+    },
+    {
+      "source": "pose",
+      "target": "variable",
+      "count": 33
+    },
+    {
+      "source": "position",
+      "target": "tool",
+      "count": 33
+    },
+    {
+      "source": "position",
+      "target": "trying",
+      "count": 33
+    },
+    {
+      "source": "program",
+      "target": "series",
+      "count": 33
+    },
+    {
+      "source": "robot",
+      "target": "rotation",
+      "count": 33
+    },
+    {
+      "source": "robot",
+      "target": "wrist",
+      "count": 33
+    },
+    {
+      "source": "send",
+      "target": "string",
+      "count": 33
+    },
+    {
+      "source": "send",
+      "target": "via",
+      "count": 33
+    },
+    {
+      "source": "2",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "5",
+      "target": "software",
+      "count": 32
+    },
+    {
+      "source": "axis",
+      "target": "tcp",
+      "count": 32
+    },
+    {
+      "source": "behavior",
+      "target": "version",
+      "count": 32
+    },
+    {
+      "source": "call",
+      "target": "program",
+      "count": 32
+    },
+    {
+      "source": "client",
+      "target": "python",
+      "count": 32
+    },
+    {
+      "source": "client",
+      "target": "read",
+      "count": 32
+    },
+    {
+      "source": "client",
+      "target": "socket",
+      "count": 32
+    },
+    {
+      "source": "commands",
+      "target": "script",
+      "count": 32
+    },
+    {
+      "source": "communication",
+      "target": "plc",
+      "count": 32
+    },
+    {
+      "source": "computer",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "control",
+      "target": "ip",
+      "count": 32
+    },
+    {
+      "source": "data",
+      "target": "get",
+      "count": 32
+    },
+    {
+      "source": "digital",
+      "target": "trying",
+      "count": 32
+    },
+    {
+      "source": "end",
+      "target": "set",
+      "count": 32
+    },
+    {
+      "source": "error",
+      "target": "joint",
+      "count": 32
+    },
+    {
+      "source": "everyone",
+      "target": "tcp",
+      "count": 32
+    },
+    {
+      "source": "everyone",
+      "target": "trying",
+      "count": 32
+    },
+    {
+      "source": "file",
+      "target": "ursim",
+      "count": 32
+    },
+    {
+      "source": "file",
+      "target": "version",
+      "count": 32
+    },
+    {
+      "source": "found",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "function",
+      "target": "tcp",
+      "count": 32
+    },
+    {
+      "source": "input",
+      "target": "trying",
+      "count": 32
+    },
+    {
+      "source": "installation",
+      "target": "variable",
+      "count": 32
+    },
+    {
+      "source": "installed",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "model",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "pose",
+      "target": "pose_trans",
+      "count": 32
+    },
+    {
+      "source": "program",
+      "target": "via",
+      "count": 32
+    },
+    {
+      "source": "programming",
+      "target": "robot",
+      "count": 32
+    },
+    {
+      "source": "robot",
+      "target": "sending",
+      "count": 32
+    },
+    {
+      "source": "robot",
+      "target": "true",
+      "count": 32
+    },
+    {
+      "source": "robot",
+      "target": "write",
+      "count": 32
+    },
+    {
+      "source": "safeguard",
+      "target": "stop",
+      "count": 32
+    },
+    {
+      "source": "trying",
+      "target": "variable",
+      "count": 32
+    },
+    {
+      "source": "update",
+      "target": "version",
+      "count": 32
+    },
+    {
+      "source": "allowed",
+      "target": "closed",
+      "count": 31
+    },
+    {
+      "source": "base",
+      "target": "feature",
+      "count": 31
+    },
+    {
+      "source": "cb3",
+      "target": "ur5",
+      "count": 31
+    },
+    {
+      "source": "close",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "com",
+      "target": "https",
+      "count": 31
+    },
+    {
+      "source": "com",
+      "target": "universal",
+      "count": 31
+    },
+    {
+      "source": "command",
+      "target": "dashboard",
+      "count": 31
+    },
+    {
+      "source": "command",
+      "target": "function",
+      "count": 31
+    },
+    {
+      "source": "command",
+      "target": "pose",
+      "count": 31
+    },
+    {
+      "source": "communication",
+      "target": "control",
+      "count": 31
+    },
+    {
+      "source": "communication",
+      "target": "program",
+      "count": 31
+    },
+    {
+      "source": "communication",
+      "target": "send",
+      "count": 31
+    },
+    {
+      "source": "connect",
+      "target": "ip",
+      "count": 31
+    },
+    {
+      "source": "connection",
+      "target": "trying",
+      "count": 31
+    },
+    {
+      "source": "coordinates",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "create",
+      "target": "script",
+      "count": 31
+    },
+    {
+      "source": "currently",
+      "target": "everyone",
+      "count": 31
+    },
+    {
+      "source": "data",
+      "target": "script",
+      "count": 31
+    },
+    {
+      "source": "different",
+      "target": "program",
+      "count": 31
+    },
+    {
+      "source": "effector",
+      "target": "end",
+      "count": 31
+    },
+    {
+      "source": "emergency",
+      "target": "stop",
+      "count": 31
+    },
+    {
+      "source": "end",
+      "target": "tcp",
+      "count": 31
+    },
+    {
+      "source": "end",
+      "target": "trying",
+      "count": 31
+    },
+    {
+      "source": "error",
+      "target": "rtde",
+      "count": 31
+    },
+    {
+      "source": "ethernet",
+      "target": "plc",
+      "count": 31
+    },
+    {
+      "source": "feature",
+      "target": "point",
+      "count": 31
+    },
+    {
+      "source": "file",
+      "target": "urcap",
+      "count": 31
+    },
+    {
+      "source": "guys",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "hey",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "ip",
+      "target": "rtde",
+      "count": 31
+    },
+    {
+      "source": "kb",
+      "target": "ur",
+      "count": 31
+    },
+    {
+      "source": "mode",
+      "target": "stop",
+      "count": 31
+    },
+    {
+      "source": "output",
+      "target": "tool",
+      "count": 31
+    },
+    {
+      "source": "pick",
+      "target": "place",
+      "count": 31
+    },
+    {
+      "source": "place",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "polyscope",
+      "target": "urcap",
+      "count": 31
+    },
+    {
+      "source": "pose_trans",
+      "target": "trans",
+      "count": 31
+    },
+    {
+      "source": "program",
+      "target": "ursim",
+      "count": 31
+    },
+    {
+      "source": "project",
+      "target": "ur",
+      "count": 31
+    },
+    {
+      "source": "read",
+      "target": "register",
+      "count": 31
+    },
+    {
+      "source": "recently",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "reproduce",
+      "target": "robot",
+      "count": 31
+    },
+    {
+      "source": "robot",
+      "target": "simple",
+      "count": 31
+    },
+    {
+      "source": "robot",
+      "target": "switch",
+      "count": 31
+    },
+    {
+      "source": "script",
+      "target": "via",
+      "count": 31
+    },
+    {
+      "source": "send",
+      "target": "server",
+      "count": 31
+    },
+    {
+      "source": "set",
+      "target": "tool",
+      "count": 31
+    },
+    {
+      "source": "socket",
+      "target": "urscript",
+      "count": 31
+    },
+    {
+      "source": "tool",
+      "target": "trying",
+      "count": 31
+    },
+    {
+      "source": "tool",
+      "target": "ur",
+      "count": 31
+    },
+    {
+      "source": "value",
+      "target": "variable",
+      "count": 31
+    },
+    {
+      "source": "variable",
+      "target": "variables",
+      "count": 31
+    },
+    {
+      "source": "1",
+      "target": "3",
+      "count": 30
+    },
+    {
+      "source": "11",
+      "target": "polyscope",
+      "count": 30
+    },
+    {
+      "source": "168",
+      "target": "192",
+      "count": 30
+    },
+    {
+      "source": "3",
+      "target": "polyscope",
+      "count": 30
+    },
+    {
+      "source": "5",
+      "target": "program",
+      "count": 30
+    },
+    {
+      "source": "actual",
+      "target": "rtde",
+      "count": 30
+    },
+    {
+      "source": "base",
+      "target": "move",
+      "count": 30
+    },
+    {
+      "source": "client",
+      "target": "interface",
+      "count": 30
+    },
+    {
+      "source": "command",
+      "target": "force",
+      "count": 30
+    },
+    {
+      "source": "command",
+      "target": "stop",
+      "count": 30
+    },
+    {
+      "source": "connect",
+      "target": "rtde",
+      "count": 30
+    },
+    {
+      "source": "control",
+      "target": "file",
+      "count": 30
+    },
+    {
+      "source": "controller",
+      "target": "trying",
+      "count": 30
+    },
+    {
+      "source": "dashboard",
+      "target": "send",
+      "count": 30
+    },
+    {
+      "source": "everyone",
+      "target": "rtde",
+      "count": 30
+    },
+    {
+      "source": "feature",
+      "target": "position",
+      "count": 30
+    },
+    {
+      "source": "guide",
+      "target": "robot",
+      "count": 30
+    },
+    {
+      "source": "input",
+      "target": "set",
+      "count": 30
+    },
+    {
+      "source": "move",
+      "target": "movel",
+      "count": 30
+    },
+    {
+      "source": "move",
+      "target": "waypoint",
+      "count": 30
+    },
+    {
+      "source": "output",
+      "target": "trying",
+      "count": 30
+    },
+    {
+      "source": "point",
+      "target": "program",
+      "count": 30
+    },
+    {
+      "source": "point",
+      "target": "tcp",
+      "count": 30
+    },
+    {
+      "source": "program",
+      "target": "universal",
+      "count": 30
+    },
+    {
+      "source": "program",
+      "target": "work",
+      "count": 30
+    },
+    {
+      "source": "robot",
+      "target": "status",
+      "count": 30
+    },
+    {
+      "source": "robot",
+      "target": "urp",
+      "count": 30
+    },
+    {
+      "source": "robot",
+      "target": "user",
+      "count": 30
+    },
+    {
+      "source": "robots",
+      "target": "trying",
+      "count": 30
+    },
+    {
+      "source": "script",
+      "target": "write",
+      "count": 30
+    },
+    {
+      "source": "server",
+      "target": "trying",
+      "count": 30
+    },
+    {
+      "source": "tcp",
+      "target": "values",
+      "count": 30
+    },
+    {
+      "source": "trying",
+      "target": "ur10e",
+      "count": 30
+    },
+    {
+      "source": "trying",
+      "target": "ur5",
+      "count": 30
+    },
+    {
+      "source": "ur",
+      "target": "ur10e",
+      "count": 30
+    },
+    {
+      "source": "1",
+      "target": "5",
+      "count": 29
+    },
+    {
+      "source": "3",
+      "target": "cb3",
+      "count": 29
+    },
+    {
+      "source": "5",
+      "target": "ursim",
+      "count": 29
+    },
+    {
+      "source": "anyone",
+      "target": "robot",
+      "count": 29
+    },
+    {
+      "source": "application",
+      "target": "ur",
+      "count": 29
+    },
+    {
+      "source": "base",
+      "target": "tool",
+      "count": 29
+    },
+    {
+      "source": "client",
+      "target": "tcp",
+      "count": 29
+    },
+    {
+      "source": "code",
+      "target": "data",
+      "count": 29
+    },
+    {
+      "source": "code",
+      "target": "socket",
+      "count": 29
+    },
+    {
+      "source": "code",
+      "target": "urscript",
+      "count": 29
+    },
+    {
+      "source": "communication",
+      "target": "rtde",
+      "count": 29
+    },
+    {
+      "source": "connect",
+      "target": "ethernet",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "external",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "pendant",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "socket",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "universal",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "ur10e",
+      "count": 29
+    },
+    {
+      "source": "control",
+      "target": "via",
+      "count": 29
+    },
+    {
+      "source": "controller",
+      "target": "error",
+      "count": 29
+    },
+    {
+      "source": "created",
+      "target": "robot",
+      "count": 29
+    },
+    {
+      "source": "def",
+      "target": "end",
+      "count": 29
+    },
+    {
+      "source": "drive",
+      "target": "robot",
+      "count": 29
+    },
+    {
+      "source": "e",
+      "target": "ur",
+      "count": 29
+    },
+    {
+      "source": "first",
+      "target": "robot",
+      "count": 29
+    },
+    {
+      "source": "flange",
+      "target": "tool",
+      "count": 29
+    },
+    {
+      "source": "line",
+      "target": "script",
+      "count": 29
+    },
+    {
+      "source": "load",
+      "target": "robot",
+      "count": 29
+    },
+    {
+      "source": "modbus",
+      "target": "program",
+      "count": 29
+    },
+    {
+      "source": "modbus",
+      "target": "register",
+      "count": 29
+    },
+    {
+      "source": "polyscope",
+      "target": "series",
+      "count": 29
+    },
+    {
+      "source": "port",
+      "target": "tcp",
+      "count": 29
+    },
+    {
+      "source": "pose",
+      "target": "ur",
+      "count": 29
+    },
+    {
+      "source": "read",
+      "target": "ur",
+      "count": 29
+    },
+    {
+      "source": "rtde",
+      "target": "via",
+      "count": 29
+    },
+    {
+      "source": "trying",
+      "target": "universal",
+      "count": 29
+    },
+    {
+      "source": "10",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "11",
+      "target": "version",
+      "count": 28
+    },
+    {
+      "source": "5",
+      "target": "error",
+      "count": 28
+    },
+    {
+      "source": "cb",
+      "target": "series",
+      "count": 28
+    },
+    {
+      "source": "cb3",
+      "target": "series",
+      "count": 28
+    },
+    {
+      "source": "change",
+      "target": "set",
+      "count": 28
+    },
+    {
+      "source": "client",
+      "target": "modbus",
+      "count": 28
+    },
+    {
+      "source": "com",
+      "target": "robots",
+      "count": 28
+    },
+    {
+      "source": "communication",
+      "target": "data",
+      "count": 28
+    },
+    {
+      "source": "communication",
+      "target": "tcp",
+      "count": 28
+    },
+    {
+      "source": "community",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "connection",
+      "target": "ip",
+      "count": 28
+    },
+    {
+      "source": "control",
+      "target": "port",
+      "count": 28
+    },
+    {
+      "source": "control",
+      "target": "ur5",
+      "count": 28
+    },
+    {
+      "source": "digital",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "e",
+      "target": "program",
+      "count": 28
+    },
+    {
+      "source": "error",
+      "target": "get",
+      "count": 28
+    },
+    {
+      "source": "error",
+      "target": "urcap",
+      "count": 28
+    },
+    {
+      "source": "ethernet",
+      "target": "trying",
+      "count": 28
+    },
+    {
+      "source": "feature",
+      "target": "relative",
+      "count": 28
+    },
+    {
+      "source": "feature",
+      "target": "tcp",
+      "count": 28
+    },
+    {
+      "source": "file",
+      "target": "rtde",
+      "count": 28
+    },
+    {
+      "source": "force",
+      "target": "script",
+      "count": 28
+    },
+    {
+      "source": "function",
+      "target": "set",
+      "count": 28
+    },
+    {
+      "source": "get",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "gripper",
+      "target": "program",
+      "count": 28
+    },
+    {
+      "source": "inverse",
+      "target": "robot",
+      "count": 28
+    },
+    {
+      "source": "joint",
+      "target": "move",
+      "count": 28
+    },
+    {
+      "source": "joint",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "machine",
+      "target": "virtual",
+      "count": 28
+    },
+    {
+      "source": "modbus",
+      "target": "signal",
+      "count": 28
+    },
+    {
+      "source": "mode",
+      "target": "tcp",
+      "count": 28
+    },
+    {
+      "source": "node",
+      "target": "urcap",
+      "count": 28
+    },
+    {
+      "source": "one",
+      "target": "program",
+      "count": 28
+    },
+    {
+      "source": "plc",
+      "target": "trying",
+      "count": 28
+    },
+    {
+      "source": "pose",
+      "target": "rtde",
+      "count": 28
+    },
+    {
+      "source": "pose",
+      "target": "set",
+      "count": 28
+    },
+    {
+      "source": "position",
+      "target": "set",
+      "count": 28
+    },
+    {
+      "source": "position",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "program",
+      "target": "write",
+      "count": 28
+    },
+    {
+      "source": "remotely",
+      "target": "robot",
+      "count": 28
+    },
+    {
+      "source": "safety",
+      "target": "ur",
+      "count": 28
+    },
+    {
+      "source": "start",
+      "target": "stop",
+      "count": 28
+    },
+    {
+      "source": "trying",
+      "target": "via",
+      "count": 28
+    },
+    {
+      "source": "trying",
+      "target": "write",
+      "count": 28
+    },
+    {
+      "source": "ur",
+      "target": "work",
+      "count": 28
+    },
+    {
+      "source": "0",
+      "target": "3",
+      "count": 27
+    },
+    {
+      "source": "5",
+      "target": "ur10e",
+      "count": 27
+    },
+    {
+      "source": "actual",
+      "target": "joint",
+      "count": 27
+    },
+    {
+      "source": "actual",
+      "target": "position",
+      "count": 27
+    },
+    {
+      "source": "address",
+      "target": "ur",
+      "count": 27
+    },
+    {
+      "source": "bit",
+      "target": "robot",
+      "count": 27
+    },
+    {
+      "source": "cable",
+      "target": "robot",
+      "count": 27
+    },
+    {
+      "source": "client",
+      "target": "port",
+      "count": 27
+    },
+    {
+      "source": "client",
+      "target": "primary",
+      "count": 27
+    },
+    {
+      "source": "command",
+      "target": "error",
+      "count": 27
+    },
+    {
+      "source": "connection",
+      "target": "port",
+      "count": 27
+    },
+    {
+      "source": "connection",
+      "target": "server",
+      "count": 27
+    },
+    {
+      "source": "control",
+      "target": "output",
+      "count": 27
+    },
+    {
+      "source": "control",
+      "target": "ur10",
+      "count": 27
+    },
+    {
+      "source": "currently",
+      "target": "project",
+      "count": 27
+    },
+    {
+      "source": "directly",
+      "target": "robot",
+      "count": 27
+    },
+    {
+      "source": "end",
+      "target": "mode",
+      "count": 27
+    },
+    {
+      "source": "feature",
+      "target": "script",
+      "count": 27
+    },
+    {
+      "source": "force",
+      "target": "force_mode",
+      "count": 27
+    },
+    {
+      "source": "function",
+      "target": "urscript",
+      "count": 27
+    },
+    {
+      "source": "get",
+      "target": "rtde",
+      "count": 27
+    },
+    {
+      "source": "input",
+      "target": "ur",
+      "count": 27
+    },
+    {
+      "source": "installation",
+      "target": "variables",
+      "count": 27
+    },
+    {
+      "source": "joint",
+      "target": "joints",
+      "count": 27
+    },
+    {
+      "source": "library",
+      "target": "python",
+      "count": 27
+    },
+    {
+      "source": "load",
+      "target": "program",
+      "count": 27
+    },
+    {
+      "source": "make",
+      "target": "trying",
+      "count": 27
+    },
+    {
+      "source": "message",
+      "target": "program",
+      "count": 27
+    },
+    {
+      "source": "modbus",
+      "target": "trying",
+      "count": 27
+    },
+    {
+      "source": "moves",
+      "target": "robot",
+      "count": 27
+    },
+    {
+      "source": "output",
+      "target": "register",
+      "count": 27
+    },
+    {
+      "source": "pc",
+      "target": "program",
+      "count": 27
+    },
+    {
+      "source": "pick",
+      "target": "program",
+      "count": 27
+    },
+    {
+      "source": "pose",
+      "target": "relative",
+      "count": 27
+    },
+    {
+      "source": "pose",
+      "target": "rotation",
+      "count": 27
+    },
+    {
+      "source": "position",
+      "target": "positions",
+      "count": 27
+    },
+    {
+      "source": "position",
+      "target": "script",
+      "count": 27
+    },
+    {
+      "source": "position",
+      "target": "waypoint",
+      "count": 27
+    },
+    {
+      "source": "positions",
+      "target": "robot",
+      "count": 27
+    },
+    {
+      "source": "program",
+      "target": "system",
+      "count": 27
+    },
+    {
+      "source": "read",
+      "target": "write",
+      "count": 27
+    },
+    {
+      "source": "robot",
+      "target": "simulator",
+      "count": 27
+    },
+    {
+      "source": "robot",
+      "target": "variables",
+      "count": 27
+    },
+    {
+      "source": "script",
+      "target": "urp",
+      "count": 27
+    },
+    {
+      "source": "stop",
+      "target": "ur10e",
+      "count": 27
+    },
+    {
+      "source": "tcp",
+      "target": "ur5",
+      "count": 27
+    },
+    {
+      "source": "tcp",
+      "target": "urscript",
+      "count": 27
+    },
+    {
+      "source": "teach",
+      "target": "ur",
+      "count": 27
+    },
+    {
+      "source": "ur",
+      "target": "via",
+      "count": 27
+    },
+    {
+      "source": "ur",
+      "target": "would",
+      "count": 27
+    },
+    {
+      "source": "29999",
+      "target": "port",
+      "count": 26
+    },
+    {
+      "source": "ask",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "available",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "axis",
+      "target": "move",
+      "count": 26
+    },
+    {
+      "source": "axis",
+      "target": "pose",
+      "count": 26
+    },
+    {
+      "source": "behavior",
+      "target": "program",
+      "count": 26
+    },
+    {
+      "source": "bug",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "cb",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "cobot",
+      "target": "program",
+      "count": 26
+    },
+    {
+      "source": "code",
+      "target": "pose",
+      "count": 26
+    },
+    {
+      "source": "commands",
+      "target": "control",
+      "count": 26
+    },
+    {
+      "source": "connect",
+      "target": "digital",
+      "count": 26
+    },
+    {
+      "source": "connect",
+      "target": "server",
+      "count": 26
+    },
+    {
+      "source": "control",
+      "target": "currently",
+      "count": 26
+    },
+    {
+      "source": "control",
+      "target": "teach",
+      "count": 26
+    },
+    {
+      "source": "controller",
+      "target": "script",
+      "count": 26
+    },
+    {
+      "source": "dashboard",
+      "target": "ur",
+      "count": 26
+    },
+    {
+      "source": "data",
+      "target": "file",
+      "count": 26
+    },
+    {
+      "source": "emergency",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "end",
+      "target": "force",
+      "count": 26
+    },
+    {
+      "source": "end",
+      "target": "true",
+      "count": 26
+    },
+    {
+      "source": "error",
+      "target": "following",
+      "count": 26
+    },
+    {
+      "source": "file",
+      "target": "robots",
+      "count": 26
+    },
+    {
+      "source": "find",
+      "target": "ur",
+      "count": 26
+    },
+    {
+      "source": "force_mode",
+      "target": "mode",
+      "count": 26
+    },
+    {
+      "source": "generation",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "generation",
+      "target": "software",
+      "count": 26
+    },
+    {
+      "source": "generation",
+      "target": "version",
+      "count": 26
+    },
+    {
+      "source": "get",
+      "target": "pose",
+      "count": 26
+    },
+    {
+      "source": "get",
+      "target": "program",
+      "count": 26
+    },
+    {
+      "source": "gripper",
+      "target": "ur",
+      "count": 26
+    },
+    {
+      "source": "interface",
+      "target": "port",
+      "count": 26
+    },
+    {
+      "source": "io",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "joint",
+      "target": "movej",
+      "count": 26
+    },
+    {
+      "source": "kin",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "loop",
+      "target": "program",
+      "count": 26
+    },
+    {
+      "source": "movel",
+      "target": "pose",
+      "count": 26
+    },
+    {
+      "source": "movel",
+      "target": "program",
+      "count": 26
+    },
+    {
+      "source": "plc",
+      "target": "server",
+      "count": 26
+    },
+    {
+      "source": "plc",
+      "target": "siemens",
+      "count": 26
+    },
+    {
+      "source": "pose",
+      "target": "tool",
+      "count": 26
+    },
+    {
+      "source": "position",
+      "target": "variable",
+      "count": 26
+    },
+    {
+      "source": "process",
+      "target": "robot",
+      "count": 26
+    },
+    {
+      "source": "program",
+      "target": "project",
+      "count": 26
+    },
+    {
+      "source": "program",
+      "target": "value",
+      "count": 26
+    },
+    {
+      "source": "read",
+      "target": "send",
+      "count": 26
+    },
+    {
+      "source": "robot",
+      "target": "servoj",
+      "count": 26
+    },
+    {
+      "source": "robot",
+      "target": "stops",
+      "count": 26
+    },
+    {
+      "source": "robot",
+      "target": "works",
+      "count": 26
+    },
+    {
+      "source": "rtde",
+      "target": "set",
+      "count": 26
+    },
+    {
+      "source": "script",
+      "target": "thread",
+      "count": 26
+    },
+    {
+      "source": "series",
+      "target": "version",
+      "count": 26
+    },
+    {
+      "source": "server",
+      "target": "tcp",
+      "count": 26
+    },
+    {
+      "source": "tool",
+      "target": "urcap",
+      "count": 26
+    },
+    {
+      "source": "waypoint",
+      "target": "waypoints",
+      "count": 26
+    },
+    {
+      "source": "0",
+      "target": "version",
+      "count": 25
+    },
+    {
+      "source": "axis",
+      "target": "tool",
+      "count": 25
+    },
+    {
+      "source": "base",
+      "target": "plane",
+      "count": 25
+    },
+    {
+      "source": "behavior",
+      "target": "software",
+      "count": 25
+    },
+    {
+      "source": "case",
+      "target": "program",
+      "count": 25
+    },
+    {
+      "source": "cb3",
+      "target": "version",
+      "count": 25
+    },
+    {
+      "source": "code",
+      "target": "end",
+      "count": 25
+    },
+    {
+      "source": "command",
+      "target": "end",
+      "count": 25
+    },
+    {
+      "source": "commands",
+      "target": "trying",
+      "count": 25
+    },
+    {
+      "source": "commands",
+      "target": "urscript",
+      "count": 25
+    },
+    {
+      "source": "communication",
+      "target": "trying",
+      "count": 25
+    },
+    {
+      "source": "connected",
+      "target": "program",
+      "count": 25
+    },
+    {
+      "source": "connection",
+      "target": "rtde",
+      "count": 25
+    },
+    {
+      "source": "digital",
+      "target": "inputs",
+      "count": 25
+    },
+    {
+      "source": "digital",
+      "target": "tool",
+      "count": 25
+    },
+    {
+      "source": "direction",
+      "target": "force",
+      "count": 25
+    },
+    {
+      "source": "end",
+      "target": "function",
+      "count": 25
+    },
+    {
+      "source": "error",
+      "target": "stop",
+      "count": 25
+    },
+    {
+      "source": "error",
+      "target": "ursim",
+      "count": 25
+    },
+    {
+      "source": "ethernet",
+      "target": "rtde",
+      "count": 25
+    },
+    {
+      "source": "ethernet",
+      "target": "ur",
+      "count": 25
+    },
+    {
+      "source": "everyone",
+      "target": "file",
+      "count": 25
+    },
+    {
+      "source": "everyone",
+      "target": "python",
+      "count": 25
+    },
+    {
+      "source": "file",
+      "target": "log",
+      "count": 25
+    },
+    {
+      "source": "file",
+      "target": "programs",
+      "count": 25
+    },
+    {
+      "source": "find",
+      "target": "trying",
+      "count": 25
+    },
+    {
+      "source": "force",
+      "target": "set",
+      "count": 25
+    },
+    {
+      "source": "force",
+      "target": "ur10e",
+      "count": 25
+    },
+    {
+      "source": "greetings",
+      "target": "robot",
+      "count": 25
+    },
+    {
+      "source": "inputs",
+      "target": "robot",
+      "count": 25
+    },
+    {
+      "source": "ip",
+      "target": "socket",
+      "count": 25
+    },
+    {
+      "source": "joint",
+      "target": "pose",
+      "count": 25
+    },
+    {
+      "source": "kb",
+      "target": "trying",
+      "count": 25
+    },
+    {
+      "source": "library",
+      "target": "rtde",
+      "count": 25
+    },
+    {
+      "source": "motion",
+      "target": "robot",
+      "count": 25
+    },
+    {
+      "source": "open",
+      "target": "socket",
+      "count": 25
+    },
+    {
+      "source": "output",
+      "target": "ur",
+      "count": 25
+    },
+    {
+      "source": "point",
+      "target": "tool",
+      "count": 25
+    },
+    {
+      "source": "polyscope",
+      "target": "trying",
+      "count": 25
+    },
+    {
+      "source": "polyscope",
+      "target": "ur10e",
+      "count": 25
+    },
+    {
+      "source": "python",
+      "target": "server",
+      "count": 25
+    },
+    {
+      "source": "robot",
+      "target": "urcaps",
+      "count": 25
+    },
+    {
+      "source": "robot",
+      "target": "without",
+      "count": 25
+    },
+    {
+      "source": "robots",
+      "target": "rtde",
+      "count": 25
+    },
+    {
+      "source": "set",
+      "target": "urscript",
+      "count": 25
+    },
+    {
+      "source": "stop",
+      "target": "ur",
+      "count": 25
+    },
+    {
+      "source": "0",
+      "target": "program",
+      "count": 24
+    },
+    {
+      "source": "10",
+      "target": "5",
+      "count": 24
+    },
+    {
+      "source": "10",
+      "target": "polyscope",
+      "count": 24
+    },
+    {
+      "source": "10",
+      "target": "version",
+      "count": 24
+    },
+    {
+      "source": "30003",
+      "target": "port",
+      "count": 24
+    },
+    {
+      "source": "actual",
+      "target": "get_actual_tcp_pose",
+      "count": 24
+    },
+    {
+      "source": "angle",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "base",
+      "target": "trans",
+      "count": 24
+    },
+    {
+      "source": "blend",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "command",
+      "target": "input",
+      "count": 24
+    },
+    {
+      "source": "command",
+      "target": "server",
+      "count": 24
+    },
+    {
+      "source": "command",
+      "target": "thread",
+      "count": 24
+    },
+    {
+      "source": "commands",
+      "target": "ur",
+      "count": 24
+    },
+    {
+      "source": "communication",
+      "target": "ip",
+      "count": 24
+    },
+    {
+      "source": "communication",
+      "target": "read",
+      "count": 24
+    },
+    {
+      "source": "communication",
+      "target": "universal",
+      "count": 24
+    },
+    {
+      "source": "connect",
+      "target": "connection",
+      "count": 24
+    },
+    {
+      "source": "connect",
+      "target": "port",
+      "count": 24
+    },
+    {
+      "source": "connect",
+      "target": "program",
+      "count": 24
+    },
+    {
+      "source": "contact",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "control",
+      "target": "everyone",
+      "count": 24
+    },
+    {
+      "source": "controller",
+      "target": "polyscope",
+      "count": 24
+    },
+    {
+      "source": "controller",
+      "target": "rtde",
+      "count": 24
+    },
+    {
+      "source": "controlling",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "create",
+      "target": "trying",
+      "count": 24
+    },
+    {
+      "source": "created",
+      "target": "program",
+      "count": 24
+    },
+    {
+      "source": "current",
+      "target": "joint",
+      "count": 24
+    },
+    {
+      "source": "currently",
+      "target": "script",
+      "count": 24
+    },
+    {
+      "source": "dashboard",
+      "target": "plc",
+      "count": 24
+    },
+    {
+      "source": "def",
+      "target": "script",
+      "count": 24
+    },
+    {
+      "source": "digital",
+      "target": "standard",
+      "count": 24
+    },
+    {
+      "source": "end",
+      "target": "pose",
+      "count": 24
+    },
+    {
+      "source": "error",
+      "target": "ur10",
+      "count": 24
+    },
+    {
+      "source": "example",
+      "target": "ur",
+      "count": 24
+    },
+    {
+      "source": "file",
+      "target": "line",
+      "count": 24
+    },
+    {
+      "source": "files",
+      "target": "script",
+      "count": 24
+    },
+    {
+      "source": "get_actual_tcp_pose",
+      "target": "pose",
+      "count": 24
+    },
+    {
+      "source": "get_actual_tcp_pose",
+      "target": "tcp",
+      "count": 24
+    },
+    {
+      "source": "get_inverse_kin",
+      "target": "kin",
+      "count": 24
+    },
+    {
+      "source": "im",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "input",
+      "target": "read",
+      "count": 24
+    },
+    {
+      "source": "input",
+      "target": "stop",
+      "count": 24
+    },
+    {
+      "source": "ip",
+      "target": "network",
+      "count": 24
+    },
+    {
+      "source": "ip",
+      "target": "port",
+      "count": 24
+    },
+    {
+      "source": "joint",
+      "target": "positions",
+      "count": 24
+    },
+    {
+      "source": "modbus",
+      "target": "output",
+      "count": 24
+    },
+    {
+      "source": "modbus",
+      "target": "set",
+      "count": 24
+    },
+    {
+      "source": "mode",
+      "target": "teach",
+      "count": 24
+    },
+    {
+      "source": "mode",
+      "target": "ur10e",
+      "count": 24
+    },
+    {
+      "source": "move",
+      "target": "speed",
+      "count": 24
+    },
+    {
+      "source": "move",
+      "target": "waypoints",
+      "count": 24
+    },
+    {
+      "source": "object",
+      "target": "robot",
+      "count": 24
+    },
+    {
+      "source": "pallet",
+      "target": "program",
+      "count": 24
+    },
+    {
+      "source": "plc",
+      "target": "send",
+      "count": 24
+    },
+    {
+      "source": "positions",
+      "target": "program",
+      "count": 24
+    },
+    {
+      "source": "program",
+      "target": "programming",
+      "count": 24
+    },
+    {
+      "source": "program",
+      "target": "safety",
+      "count": 24
+    },
+    {
+      "source": "program",
+      "target": "steps",
+      "count": 24
+    },
+    {
+      "source": "program",
+      "target": "teach",
+      "count": 24
+    },
+    {
+      "source": "program",
+      "target": "values",
+      "count": 24
+    },
+    {
+      "source": "programming",
+      "target": "ur",
+      "count": 24
+    },
+    {
+      "source": "python",
+      "target": "tcp",
+      "count": 24
+    },
+    {
+      "source": "registers",
+      "target": "rtde",
+      "count": 24
+    },
+    {
+      "source": "remote",
+      "target": "trying",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "robotiq",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "siemens",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "started",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "starting",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "test",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "torque",
+      "count": 24
+    },
+    {
+      "source": "robot",
+      "target": "wondering",
+      "count": 24
+    },
+    {
+      "source": "rotation",
+      "target": "tcp",
+      "count": 24
+    },
+    {
+      "source": "rtde",
+      "target": "values",
+      "count": 24
+    },
+    {
+      "source": "script",
+      "target": "ur10e",
+      "count": 24
+    },
+    {
+      "source": "script",
+      "target": "would",
+      "count": 24
+    },
+    {
+      "source": "socket",
+      "target": "via",
+      "count": 24
+    },
+    {
+      "source": "steps",
+      "target": "version",
+      "count": 24
+    },
+    {
+      "source": "system",
+      "target": "ur",
+      "count": 24
+    },
+    {
+      "source": "tcp",
+      "target": "urcap",
+      "count": 24
+    },
+    {
+      "source": "tcp",
+      "target": "waypoint",
+      "count": 24
+    },
+    {
+      "source": "trying",
+      "target": "ursim",
+      "count": 24
+    },
+    {
+      "source": "ur",
+      "target": "ursim",
+      "count": 24
+    },
+    {
+      "source": "ursim",
+      "target": "virtual",
+      "count": 24
+    },
+    {
+      "source": "20",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "3",
+      "target": "ur",
+      "count": 23
+    },
+    {
+      "source": "actual",
+      "target": "move",
+      "count": 23
+    },
+    {
+      "source": "actual",
+      "target": "trying",
+      "count": 23
+    },
+    {
+      "source": "application",
+      "target": "tcp",
+      "count": 23
+    },
+    {
+      "source": "best",
+      "target": "program",
+      "count": 23
+    },
+    {
+      "source": "blend",
+      "target": "radius",
+      "count": 23
+    },
+    {
+      "source": "certain",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "change",
+      "target": "ur",
+      "count": 23
+    },
+    {
+      "source": "code",
+      "target": "function",
+      "count": 23
+    },
+    {
+      "source": "code",
+      "target": "polyscope",
+      "count": 23
+    },
+    {
+      "source": "command",
+      "target": "interface",
+      "count": 23
+    },
+    {
+      "source": "command",
+      "target": "port",
+      "count": 23
+    },
+    {
+      "source": "command",
+      "target": "python",
+      "count": 23
+    },
+    {
+      "source": "command",
+      "target": "servoj",
+      "count": 23
+    },
+    {
+      "source": "command",
+      "target": "tool",
+      "count": 23
+    },
+    {
+      "source": "communicate",
+      "target": "trying",
+      "count": 23
+    },
+    {
+      "source": "communication",
+      "target": "interface",
+      "count": 23
+    },
+    {
+      "source": "community",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "connect",
+      "target": "plc",
+      "count": 23
+    },
+    {
+      "source": "connect",
+      "target": "socket",
+      "count": 23
+    },
+    {
+      "source": "connected",
+      "target": "plc",
+      "count": 23
+    },
+    {
+      "source": "connection",
+      "target": "data",
+      "count": 23
+    },
+    {
+      "source": "connection",
+      "target": "via",
+      "count": 23
+    },
+    {
+      "source": "control",
+      "target": "gripper",
+      "count": 23
+    },
+    {
+      "source": "control",
+      "target": "modbus",
+      "count": 23
+    },
+    {
+      "source": "control",
+      "target": "urcap",
+      "count": 23
+    },
+    {
+      "source": "control",
+      "target": "would",
+      "count": 23
+    },
+    {
+      "source": "controller",
+      "target": "file",
+      "count": 23
+    },
+    {
+      "source": "controller",
+      "target": "joint",
+      "count": 23
+    },
+    {
+      "source": "current",
+      "target": "tcp",
+      "count": 23
+    },
+    {
+      "source": "data",
+      "target": "force",
+      "count": 23
+    },
+    {
+      "source": "data",
+      "target": "server",
+      "count": 23
+    },
+    {
+      "source": "end",
+      "target": "tool",
+      "count": 23
+    },
+    {
+      "source": "end",
+      "target": "ur",
+      "count": 23
+    },
+    {
+      "source": "error",
+      "target": "function",
+      "count": 23
+    },
+    {
+      "source": "error",
+      "target": "safety",
+      "count": 23
+    },
+    {
+      "source": "error",
+      "target": "ur5",
+      "count": 23
+    },
+    {
+      "source": "everyone",
+      "target": "script",
+      "count": 23
+    },
+    {
+      "source": "false",
+      "target": "true",
+      "count": 23
+    },
+    {
+      "source": "installation",
+      "target": "set",
+      "count": 23
+    },
+    {
+      "source": "interface",
+      "target": "socket",
+      "count": 23
+    },
+    {
+      "source": "interface",
+      "target": "trying",
+      "count": 23
+    },
+    {
+      "source": "interface",
+      "target": "would",
+      "count": 23
+    },
+    {
+      "source": "kb",
+      "target": "script",
+      "count": 23
+    },
+    {
+      "source": "library",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "link",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "main",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "mode",
+      "target": "polyscope",
+      "count": 23
+    },
+    {
+      "source": "move",
+      "target": "plane",
+      "count": 23
+    },
+    {
+      "source": "offset",
+      "target": "pose",
+      "count": 23
+    },
+    {
+      "source": "offset",
+      "target": "tcp",
+      "count": 23
+    },
+    {
+      "source": "parameters",
+      "target": "robot",
+      "count": 23
+    },
+    {
+      "source": "pendant",
+      "target": "ur",
+      "count": 23
+    },
+    {
+      "source": "plane",
+      "target": "program",
+      "count": 23
+    },
+    {
+      "source": "polyscope",
+      "target": "robots",
+      "count": 23
+    },
+    {
+      "source": "polyscope",
+      "target": "software",
+      "count": 23
+    },
+    {
+      "source": "polyscope",
+      "target": "update",
+      "count": 23
+    },
+    {
+      "source": "profinet",
+      "target": "ur",
+      "count": 23
+    },
+    {
+      "source": "program",
+      "target": "reproduce",
+      "count": 23
+    },
+    {
+      "source": "program",
+      "target": "signal",
+      "count": 23
+    },
+    {
+      "source": "program",
+      "target": "true",
+      "count": 23
+    },
+    {
+      "source": "robot",
+      "target": "support",
+      "count": 23
+    },
+    {
+      "source": "robot",
+      "target": "trajectory",
+      "count": 23
+    },
+    {
+      "source": "robot",
+      "target": "turn",
+      "count": 23
+    },
+    {
+      "source": "sensor",
+      "target": "torque",
+      "count": 23
+    },
+    {
+      "source": "tcp",
+      "target": "ur10e",
+      "count": 23
+    },
+    {
+      "source": "tcp",
+      "target": "ur5e",
+      "count": 23
+    },
+    {
+      "source": "100",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "12",
+      "target": "version",
+      "count": 22
+    },
+    {
+      "source": "3",
+      "target": "error",
+      "count": 22
+    },
+    {
+      "source": "5",
+      "target": "file",
+      "count": 22
+    },
+    {
+      "source": "acceleration",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "actual",
+      "target": "current",
+      "count": 22
+    },
+    {
+      "source": "angles",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "arm",
+      "target": "control",
+      "count": 22
+    },
+    {
+      "source": "back",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "change",
+      "target": "script",
+      "count": 22
+    },
+    {
+      "source": "code",
+      "target": "variable",
+      "count": 22
+    },
+    {
+      "source": "command",
+      "target": "data",
+      "count": 22
+    },
+    {
+      "source": "commands",
+      "target": "socket",
+      "count": 22
+    },
+    {
+      "source": "communication",
+      "target": "server",
+      "count": 22
+    },
+    {
+      "source": "configuration",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "connected",
+      "target": "ur",
+      "count": 22
+    },
+    {
+      "source": "control",
+      "target": "project",
+      "count": 22
+    },
+    {
+      "source": "currently",
+      "target": "file",
+      "count": 22
+    },
+    {
+      "source": "currently",
+      "target": "mode",
+      "count": 22
+    },
+    {
+      "source": "data",
+      "target": "ip",
+      "count": 22
+    },
+    {
+      "source": "data",
+      "target": "real",
+      "count": 22
+    },
+    {
+      "source": "developing",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "end",
+      "target": "move",
+      "count": 22
+    },
+    {
+      "source": "end",
+      "target": "send",
+      "count": 22
+    },
+    {
+      "source": "error",
+      "target": "software",
+      "count": 22
+    },
+    {
+      "source": "everyone",
+      "target": "ur10e",
+      "count": 22
+    },
+    {
+      "source": "file",
+      "target": "ur10e",
+      "count": 22
+    },
+    {
+      "source": "file",
+      "target": "urscript",
+      "count": 22
+    },
+    {
+      "source": "force",
+      "target": "ur",
+      "count": 22
+    },
+    {
+      "source": "function",
+      "target": "position",
+      "count": 22
+    },
+    {
+      "source": "function",
+      "target": "tool",
+      "count": 22
+    },
+    {
+      "source": "get_inverse_kin",
+      "target": "inverse",
+      "count": 22
+    },
+    {
+      "source": "hand",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "https",
+      "target": "universal",
+      "count": 22
+    },
+    {
+      "source": "idea",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "input",
+      "target": "mode",
+      "count": 22
+    },
+    {
+      "source": "input",
+      "target": "script",
+      "count": 22
+    },
+    {
+      "source": "input",
+      "target": "send",
+      "count": 22
+    },
+    {
+      "source": "installation",
+      "target": "polyscope",
+      "count": 22
+    },
+    {
+      "source": "interface",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "inverse",
+      "target": "joint",
+      "count": 22
+    },
+    {
+      "source": "ip",
+      "target": "program",
+      "count": 22
+    },
+    {
+      "source": "ip",
+      "target": "via",
+      "count": 22
+    },
+    {
+      "source": "joint",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "joint",
+      "target": "trying",
+      "count": 22
+    },
+    {
+      "source": "joints",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "kb",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "kin",
+      "target": "pose",
+      "count": 22
+    },
+    {
+      "source": "local",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "make",
+      "target": "move",
+      "count": 22
+    },
+    {
+      "source": "make",
+      "target": "ur",
+      "count": 22
+    },
+    {
+      "source": "modbus",
+      "target": "plc",
+      "count": 22
+    },
+    {
+      "source": "modbus",
+      "target": "read",
+      "count": 22
+    },
+    {
+      "source": "modbus",
+      "target": "registers",
+      "count": 22
+    },
+    {
+      "source": "modbus",
+      "target": "send",
+      "count": 22
+    },
+    {
+      "source": "mode",
+      "target": "move",
+      "count": 22
+    },
+    {
+      "source": "node",
+      "target": "script",
+      "count": 22
+    },
+    {
+      "source": "number",
+      "target": "program",
+      "count": 22
+    },
+    {
+      "source": "operator",
+      "target": "program",
+      "count": 22
+    },
+    {
+      "source": "orientation",
+      "target": "robot",
+      "count": 22
+    },
+    {
+      "source": "payload",
+      "target": "set",
+      "count": 22
+    },
+    {
+      "source": "point",
+      "target": "set",
+      "count": 22
+    },
+    {
+      "source": "point",
+      "target": "trying",
+      "count": 22
+    },
+    {
+      "source": "points",
+      "target": "program",
+      "count": 22
+    },
+    {
+      "source": "polyscope",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "port",
+      "target": "via",
+      "count": 22
+    },
+    {
+      "source": "program",
+      "target": "subprogram",
+      "count": 22
+    },
+    {
+      "source": "program",
+      "target": "two",
+      "count": 22
+    },
+    {
+      "source": "read",
+      "target": "registers",
+      "count": 22
+    },
+    {
+      "source": "register",
+      "target": "registers",
+      "count": 22
+    },
+    {
+      "source": "register",
+      "target": "write",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "ros",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "serial",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "setting",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "settings",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "string",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "var",
+      "count": 22
+    },
+    {
+      "source": "robot",
+      "target": "vector",
+      "count": 22
+    },
+    {
+      "source": "robots",
+      "target": "script",
+      "count": 22
+    },
+    {
+      "source": "robots",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "rtde",
+      "target": "ur10",
+      "count": 22
+    },
+    {
+      "source": "sensor",
+      "target": "ur",
+      "count": 22
+    },
+    {
+      "source": "set",
+      "target": "speed",
+      "count": 22
+    },
+    {
+      "source": "simulator",
+      "target": "ursim",
+      "count": 22
+    },
+    {
+      "source": "speed",
+      "target": "tcp",
+      "count": 22
+    },
+    {
+      "source": "system",
+      "target": "trying",
+      "count": 22
+    },
+    {
+      "source": "ur",
+      "target": "ur10",
+      "count": 22
+    },
+    {
+      "source": "ur",
+      "target": "ur5",
+      "count": 22
+    },
+    {
+      "source": "urcap",
+      "target": "ursim",
+      "count": 22
+    },
+    {
+      "source": "urcap",
+      "target": "version",
+      "count": 22
+    },
+    {
+      "source": "1",
+      "target": "polyscope",
+      "count": 21
+    },
+    {
+      "source": "11",
+      "target": "error",
+      "count": 21
+    },
+    {
+      "source": "14",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "168",
+      "target": "ip",
+      "count": 21
+    },
+    {
+      "source": "29999",
+      "target": "dashboard",
+      "count": 21
+    },
+    {
+      "source": "3",
+      "target": "5",
+      "count": 21
+    },
+    {
+      "source": "30001",
+      "target": "port",
+      "count": 21
+    },
+    {
+      "source": "actual",
+      "target": "behavior",
+      "count": 21
+    },
+    {
+      "source": "address",
+      "target": "modbus",
+      "count": 21
+    },
+    {
+      "source": "best",
+      "target": "ur",
+      "count": 21
+    },
+    {
+      "source": "button",
+      "target": "stop",
+      "count": 21
+    },
+    {
+      "source": "camera",
+      "target": "tcp",
+      "count": 21
+    },
+    {
+      "source": "change",
+      "target": "tcp",
+      "count": 21
+    },
+    {
+      "source": "client",
+      "target": "connection",
+      "count": 21
+    },
+    {
+      "source": "client",
+      "target": "trying",
+      "count": 21
+    },
+    {
+      "source": "com",
+      "target": "www",
+      "count": 21
+    },
+    {
+      "source": "command",
+      "target": "position",
+      "count": 21
+    },
+    {
+      "source": "connect",
+      "target": "controller",
+      "count": 21
+    },
+    {
+      "source": "connection",
+      "target": "control",
+      "count": 21
+    },
+    {
+      "source": "connection",
+      "target": "error",
+      "count": 21
+    },
+    {
+      "source": "connection",
+      "target": "send",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "error",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "loop",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "move",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "polyscope",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "position",
+      "count": 21
+    },
+    {
+      "source": "control",
+      "target": "urscript",
+      "count": 21
+    },
+    {
+      "source": "controller",
+      "target": "ur10e",
+      "count": 21
+    },
+    {
+      "source": "controller",
+      "target": "ur5e",
+      "count": 21
+    },
+    {
+      "source": "controller",
+      "target": "version",
+      "count": 21
+    },
+    {
+      "source": "coordinate",
+      "target": "system",
+      "count": 21
+    },
+    {
+      "source": "could",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "current",
+      "target": "data",
+      "count": 21
+    },
+    {
+      "source": "currently",
+      "target": "data",
+      "count": 21
+    },
+    {
+      "source": "currently",
+      "target": "position",
+      "count": 21
+    },
+    {
+      "source": "currently",
+      "target": "ur10e",
+      "count": 21
+    },
+    {
+      "source": "customer",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "dashboard",
+      "target": "interface",
+      "count": 21
+    },
+    {
+      "source": "dashboard",
+      "target": "remote",
+      "count": 21
+    },
+    {
+      "source": "data",
+      "target": "everyone",
+      "count": 21
+    },
+    {
+      "source": "digital",
+      "target": "outputs",
+      "count": 21
+    },
+    {
+      "source": "digital",
+      "target": "script",
+      "count": 21
+    },
+    {
+      "source": "digital",
+      "target": "true",
+      "count": 21
+    },
+    {
+      "source": "direction",
+      "target": "pose",
+      "count": 21
+    },
+    {
+      "source": "direction",
+      "target": "tcp",
+      "count": 21
+    },
+    {
+      "source": "end",
+      "target": "global",
+      "count": 21
+    },
+    {
+      "source": "error",
+      "target": "start",
+      "count": 21
+    },
+    {
+      "source": "error",
+      "target": "ur10e",
+      "count": 21
+    },
+    {
+      "source": "everybody",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "external",
+      "target": "ur",
+      "count": 21
+    },
+    {
+      "source": "false",
+      "target": "program",
+      "count": 21
+    },
+    {
+      "source": "false",
+      "target": "set",
+      "count": 21
+    },
+    {
+      "source": "file",
+      "target": "variables",
+      "count": 21
+    },
+    {
+      "source": "find",
+      "target": "program",
+      "count": 21
+    },
+    {
+      "source": "frame",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "functions",
+      "target": "program",
+      "count": 21
+    },
+    {
+      "source": "gripper",
+      "target": "urcap",
+      "count": 21
+    },
+    {
+      "source": "https",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "https",
+      "target": "www",
+      "count": 21
+    },
+    {
+      "source": "install",
+      "target": "ursim",
+      "count": 21
+    },
+    {
+      "source": "installation",
+      "target": "urcap",
+      "count": 21
+    },
+    {
+      "source": "interface",
+      "target": "script",
+      "count": 21
+    },
+    {
+      "source": "joint",
+      "target": "rtde",
+      "count": 21
+    },
+    {
+      "source": "joint",
+      "target": "target",
+      "count": 21
+    },
+    {
+      "source": "joint",
+      "target": "ur5",
+      "count": 21
+    },
+    {
+      "source": "kb",
+      "target": "move",
+      "count": 21
+    },
+    {
+      "source": "linear",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "linux",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "manual",
+      "target": "program",
+      "count": 21
+    },
+    {
+      "source": "manual",
+      "target": "script",
+      "count": 21
+    },
+    {
+      "source": "modbus",
+      "target": "robots",
+      "count": 21
+    },
+    {
+      "source": "mode",
+      "target": "reduced",
+      "count": 21
+    },
+    {
+      "source": "package",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "palletizing",
+      "target": "program",
+      "count": 21
+    },
+    {
+      "source": "parts",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "plc",
+      "target": "ur10e",
+      "count": 21
+    },
+    {
+      "source": "point",
+      "target": "position",
+      "count": 21
+    },
+    {
+      "source": "power",
+      "target": "ur",
+      "count": 21
+    },
+    {
+      "source": "primary",
+      "target": "send",
+      "count": 21
+    },
+    {
+      "source": "profinet",
+      "target": "siemens",
+      "count": 21
+    },
+    {
+      "source": "program",
+      "target": "setup",
+      "count": 21
+    },
+    {
+      "source": "program",
+      "target": "used",
+      "count": 21
+    },
+    {
+      "source": "programs",
+      "target": "ur",
+      "count": 21
+    },
+    {
+      "source": "python",
+      "target": "read",
+      "count": 21
+    },
+    {
+      "source": "radius",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "real",
+      "target": "ur",
+      "count": 21
+    },
+    {
+      "source": "receive",
+      "target": "robot",
+      "count": 21
+    },
+    {
+      "source": "robot",
+      "target": "secondary",
+      "count": 21
+    },
+    {
+      "source": "robot",
+      "target": "virtual",
+      "count": 21
+    },
+    {
+      "source": "robots",
+      "target": "software",
+      "count": 21
+    },
+    {
+      "source": "rtde",
+      "target": "universal",
+      "count": 21
+    },
+    {
+      "source": "rx",
+      "target": "ry",
+      "count": 21
+    },
+    {
+      "source": "series",
+      "target": "software",
+      "count": 21
+    },
+    {
+      "source": "start",
+      "target": "trying",
+      "count": 21
+    },
+    {
+      "source": "tcp",
+      "target": "trans",
+      "count": 21
+    },
+    {
+      "source": "tcp",
+      "target": "value",
+      "count": 21
+    },
+    {
+      "source": "tcp",
+      "target": "would",
+      "count": 21
+    },
+    {
+      "source": "trying",
+      "target": "version",
+      "count": 21
+    },
+    {
+      "source": "universal",
+      "target": "www",
+      "count": 21
+    },
+    {
+      "source": "ur",
+      "target": "variable",
+      "count": 21
+    },
+    {
+      "source": "10",
+      "target": "3",
+      "count": 20
+    },
+    {
+      "source": "10",
+      "target": "trying",
+      "count": 20
+    },
+    {
+      "source": "168",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "192",
+      "target": "ip",
+      "count": 20
+    },
+    {
+      "source": "192",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "24v",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "3",
+      "target": "ur10",
+      "count": 20
+    },
+    {
+      "source": "6",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "access",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "actual",
+      "target": "program",
+      "count": 20
+    },
+    {
+      "source": "actual",
+      "target": "values",
+      "count": 20
+    },
+    {
+      "source": "angles",
+      "target": "joint",
+      "count": 20
+    },
+    {
+      "source": "attached",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "bug",
+      "target": "program",
+      "count": 20
+    },
+    {
+      "source": "call",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "camera",
+      "target": "program",
+      "count": 20
+    },
+    {
+      "source": "cb3",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "center",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "change",
+      "target": "trying",
+      "count": 20
+    },
+    {
+      "source": "client",
+      "target": "communication",
+      "count": 20
+    },
+    {
+      "source": "client",
+      "target": "script",
+      "count": 20
+    },
+    {
+      "source": "cobot",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "code",
+      "target": "tool",
+      "count": 20
+    },
+    {
+      "source": "code",
+      "target": "urcap",
+      "count": 20
+    },
+    {
+      "source": "command",
+      "target": "polyscope",
+      "count": 20
+    },
+    {
+      "source": "commands",
+      "target": "dashboard",
+      "count": 20
+    },
+    {
+      "source": "communication",
+      "target": "error",
+      "count": 20
+    },
+    {
+      "source": "connected",
+      "target": "modbus",
+      "count": 20
+    },
+    {
+      "source": "connection",
+      "target": "tcp",
+      "count": 20
+    },
+    {
+      "source": "control",
+      "target": "plc",
+      "count": 20
+    },
+    {
+      "source": "control",
+      "target": "real",
+      "count": 20
+    },
+    {
+      "source": "coordinate",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "correct",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "current",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "currently",
+      "target": "error",
+      "count": 20
+    },
+    {
+      "source": "currently",
+      "target": "move",
+      "count": 20
+    },
+    {
+      "source": "currently",
+      "target": "tcp",
+      "count": 20
+    },
+    {
+      "source": "dashboard",
+      "target": "mode",
+      "count": 20
+    },
+    {
+      "source": "data",
+      "target": "output",
+      "count": 20
+    },
+    {
+      "source": "data",
+      "target": "pc",
+      "count": 20
+    },
+    {
+      "source": "device",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "digital",
+      "target": "signal",
+      "count": 20
+    },
+    {
+      "source": "direction",
+      "target": "move",
+      "count": 20
+    },
+    {
+      "source": "distance",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "end",
+      "target": "input",
+      "count": 20
+    },
+    {
+      "source": "error",
+      "target": "robots",
+      "count": 20
+    },
+    {
+      "source": "everyone",
+      "target": "project",
+      "count": 20
+    },
+    {
+      "source": "everyone",
+      "target": "stop",
+      "count": 20
+    },
+    {
+      "source": "feature",
+      "target": "trans",
+      "count": 20
+    },
+    {
+      "source": "file",
+      "target": "load",
+      "count": 20
+    },
+    {
+      "source": "file",
+      "target": "python",
+      "count": 20
+    },
+    {
+      "source": "file",
+      "target": "tcp",
+      "count": 20
+    },
+    {
+      "source": "file",
+      "target": "universal",
+      "count": 20
+    },
+    {
+      "source": "file",
+      "target": "usb",
+      "count": 20
+    },
+    {
+      "source": "force",
+      "target": "position",
+      "count": 20
+    },
+    {
+      "source": "get",
+      "target": "port",
+      "count": 20
+    },
+    {
+      "source": "global",
+      "target": "program",
+      "count": 20
+    },
+    {
+      "source": "global",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "greetings",
+      "target": "urcommunity",
+      "count": 20
+    },
+    {
+      "source": "home",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "https",
+      "target": "robots",
+      "count": 20
+    },
+    {
+      "source": "interface",
+      "target": "python",
+      "count": 20
+    },
+    {
+      "source": "interface",
+      "target": "read",
+      "count": 20
+    },
+    {
+      "source": "interface",
+      "target": "urscript",
+      "count": 20
+    },
+    {
+      "source": "ip",
+      "target": "set",
+      "count": 20
+    },
+    {
+      "source": "joint",
+      "target": "set",
+      "count": 20
+    },
+    {
+      "source": "joint",
+      "target": "tool",
+      "count": 20
+    },
+    {
+      "source": "line",
+      "target": "send",
+      "count": 20
+    },
+    {
+      "source": "make",
+      "target": "tcp",
+      "count": 20
+    },
+    {
+      "source": "mode",
+      "target": "send",
+      "count": 20
+    },
+    {
+      "source": "move",
+      "target": "relative",
+      "count": 20
+    },
+    {
+      "source": "move",
+      "target": "variable",
+      "count": 20
+    },
+    {
+      "source": "move",
+      "target": "would",
+      "count": 20
+    },
+    {
+      "source": "offset",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "output",
+      "target": "script",
+      "count": 20
+    },
+    {
+      "source": "pause",
+      "target": "program",
+      "count": 20
+    },
+    {
+      "source": "pc",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "port",
+      "target": "python",
+      "count": 20
+    },
+    {
+      "source": "position",
+      "target": "ur5e",
+      "count": 20
+    },
+    {
+      "source": "program",
+      "target": "sensor",
+      "count": 20
+    },
+    {
+      "source": "program",
+      "target": "simple",
+      "count": 20
+    },
+    {
+      "source": "program",
+      "target": "state",
+      "count": 20
+    },
+    {
+      "source": "program",
+      "target": "string",
+      "count": 20
+    },
+    {
+      "source": "programming",
+      "target": "script",
+      "count": 20
+    },
+    {
+      "source": "python",
+      "target": "urscript",
+      "count": 20
+    },
+    {
+      "source": "read",
+      "target": "script",
+      "count": 20
+    },
+    {
+      "source": "read",
+      "target": "via",
+      "count": 20
+    },
+    {
+      "source": "register",
+      "target": "trying",
+      "count": 20
+    },
+    {
+      "source": "relative",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "reproduce",
+      "target": "version",
+      "count": 20
+    },
+    {
+      "source": "return",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "right",
+      "target": "robot",
+      "count": 20
+    },
+    {
+      "source": "robot",
+      "target": "safeguard",
+      "count": 20
+    },
+    {
+      "source": "robot",
+      "target": "service",
+      "count": 20
+    },
+    {
+      "source": "robot",
+      "target": "solve",
+      "count": 20
+    },
+    {
+      "source": "robot",
+      "target": "supply",
+      "count": 20
+    },
+    {
+      "source": "rotation",
+      "target": "vector",
+      "count": 20
+    },
+    {
+      "source": "rpc",
+      "target": "xml",
+      "count": 20
+    },
+    {
+      "source": "rtde",
+      "target": "socket",
+      "count": 20
+    },
+    {
+      "source": "rx",
+      "target": "rz",
+      "count": 20
+    },
+    {
+      "source": "ry",
+      "target": "rz",
+      "count": 20
+    },
+    {
+      "source": "sensor",
+      "target": "tcp",
+      "count": 20
+    },
+    {
+      "source": "server",
+      "target": "urcap",
+      "count": 20
+    },
+    {
+      "source": "set",
+      "target": "true",
+      "count": 20
+    },
+    {
+      "source": "set",
+      "target": "urcap",
+      "count": 20
+    },
+    {
+      "source": "software",
+      "target": "update",
+      "count": 20
+    },
+    {
+      "source": "start",
+      "target": "ur",
+      "count": 20
+    },
+    {
+      "source": "tcp",
+      "target": "universal",
+      "count": 20
+    },
+    {
+      "source": "tcp",
+      "target": "ur10",
+      "count": 20
+    },
+    {
+      "source": "ur",
+      "target": "used",
+      "count": 20
+    },
+    {
+      "source": "ur",
+      "target": "write",
+      "count": 20
+    },
+    {
+      "source": "ur10",
+      "target": "version",
+      "count": 20
+    },
+    {
+      "source": "urcap",
+      "target": "urscript",
+      "count": 20
+    },
+    {
+      "source": "urscript",
+      "target": "would",
+      "count": 20
+    },
+    {
+      "source": "10e",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "12",
+      "target": "3",
+      "count": 19
+    },
+    {
+      "source": "3",
+      "target": "ur5",
+      "count": 19
+    },
+    {
+      "source": "30002",
+      "target": "port",
+      "count": 19
+    },
+    {
+      "source": "5",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "5",
+      "target": "ur5e",
+      "count": 19
+    },
+    {
+      "source": "active",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "actual",
+      "target": "script",
+      "count": 19
+    },
+    {
+      "source": "allowed",
+      "target": "automatically",
+      "count": 19
+    },
+    {
+      "source": "answer",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "anyone",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "application",
+      "target": "force",
+      "count": 19
+    },
+    {
+      "source": "arm",
+      "target": "move",
+      "count": 19
+    },
+    {
+      "source": "automatically",
+      "target": "closed",
+      "count": 19
+    },
+    {
+      "source": "base",
+      "target": "position",
+      "count": 19
+    },
+    {
+      "source": "base",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "c",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "camera",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "card",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "change",
+      "target": "mode",
+      "count": 19
+    },
+    {
+      "source": "client",
+      "target": "connect",
+      "count": 19
+    },
+    {
+      "source": "closed",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "cobot",
+      "target": "trying",
+      "count": 19
+    },
+    {
+      "source": "code",
+      "target": "everyone",
+      "count": 19
+    },
+    {
+      "source": "code",
+      "target": "move",
+      "count": 19
+    },
+    {
+      "source": "code",
+      "target": "series",
+      "count": 19
+    },
+    {
+      "source": "code",
+      "target": "thread",
+      "count": 19
+    },
+    {
+      "source": "com",
+      "target": "urcap",
+      "count": 19
+    },
+    {
+      "source": "command",
+      "target": "movej",
+      "count": 19
+    },
+    {
+      "source": "command",
+      "target": "read",
+      "count": 19
+    },
+    {
+      "source": "commands",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "commands",
+      "target": "sending",
+      "count": 19
+    },
+    {
+      "source": "communication",
+      "target": "profinet",
+      "count": 19
+    },
+    {
+      "source": "communication",
+      "target": "robots",
+      "count": 19
+    },
+    {
+      "source": "connect",
+      "target": "connected",
+      "count": 19
+    },
+    {
+      "source": "connect",
+      "target": "data",
+      "count": 19
+    },
+    {
+      "source": "connection",
+      "target": "ethernet",
+      "count": 19
+    },
+    {
+      "source": "connection",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "connection",
+      "target": "python",
+      "count": 19
+    },
+    {
+      "source": "control",
+      "target": "dashboard",
+      "count": 19
+    },
+    {
+      "source": "control",
+      "target": "input",
+      "count": 19
+    },
+    {
+      "source": "control",
+      "target": "remotely",
+      "count": 19
+    },
+    {
+      "source": "control",
+      "target": "start",
+      "count": 19
+    },
+    {
+      "source": "controller",
+      "target": "robots",
+      "count": 19
+    },
+    {
+      "source": "coordinates",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "current",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "data",
+      "target": "register",
+      "count": 19
+    },
+    {
+      "source": "data",
+      "target": "universal",
+      "count": 19
+    },
+    {
+      "source": "data",
+      "target": "would",
+      "count": 19
+    },
+    {
+      "source": "digital",
+      "target": "end",
+      "count": 19
+    },
+    {
+      "source": "driver",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "end",
+      "target": "urscript",
+      "count": 19
+    },
+    {
+      "source": "error",
+      "target": "python",
+      "count": 19
+    },
+    {
+      "source": "ethernet",
+      "target": "modbus",
+      "count": 19
+    },
+    {
+      "source": "everyone",
+      "target": "function",
+      "count": 19
+    },
+    {
+      "source": "everyone",
+      "target": "position",
+      "count": 19
+    },
+    {
+      "source": "everyone",
+      "target": "robots",
+      "count": 19
+    },
+    {
+      "source": "everyone",
+      "target": "send",
+      "count": 19
+    },
+    {
+      "source": "example",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "false",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "file",
+      "target": "ur5e",
+      "count": 19
+    },
+    {
+      "source": "files",
+      "target": "installation",
+      "count": 19
+    },
+    {
+      "source": "find",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "force",
+      "target": "function",
+      "count": 19
+    },
+    {
+      "source": "force",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "functions",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "get",
+      "target": "script",
+      "count": 19
+    },
+    {
+      "source": "global",
+      "target": "script",
+      "count": 19
+    },
+    {
+      "source": "global",
+      "target": "variable",
+      "count": 19
+    },
+    {
+      "source": "gripper",
+      "target": "robotiq",
+      "count": 19
+    },
+    {
+      "source": "gripper",
+      "target": "set",
+      "count": 19
+    },
+    {
+      "source": "https",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "joint",
+      "target": "kin",
+      "count": 19
+    },
+    {
+      "source": "joint",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "joint",
+      "target": "script",
+      "count": 19
+    },
+    {
+      "source": "joint",
+      "target": "servoj",
+      "count": 19
+    },
+    {
+      "source": "loop",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "manual",
+      "target": "safety",
+      "count": 19
+    },
+    {
+      "source": "manual",
+      "target": "ur",
+      "count": 19
+    },
+    {
+      "source": "maybe",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "mode",
+      "target": "pendant",
+      "count": 19
+    },
+    {
+      "source": "mode",
+      "target": "position",
+      "count": 19
+    },
+    {
+      "source": "mode",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "mode",
+      "target": "ur5",
+      "count": 19
+    },
+    {
+      "source": "mounted",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "move",
+      "target": "urcap",
+      "count": 19
+    },
+    {
+      "source": "movej",
+      "target": "movel",
+      "count": 19
+    },
+    {
+      "source": "movej",
+      "target": "pose",
+      "count": 19
+    },
+    {
+      "source": "movement",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "movep",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "old",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "output",
+      "target": "read",
+      "count": 19
+    },
+    {
+      "source": "output",
+      "target": "stop",
+      "count": 19
+    },
+    {
+      "source": "path",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "pause",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "plane",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "point",
+      "target": "waypoint",
+      "count": 19
+    },
+    {
+      "source": "points",
+      "target": "pose",
+      "count": 19
+    },
+    {
+      "source": "popup",
+      "target": "program",
+      "count": 19
+    },
+    {
+      "source": "popup",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "port",
+      "target": "urscript",
+      "count": 19
+    },
+    {
+      "source": "power",
+      "target": "supply",
+      "count": 19
+    },
+    {
+      "source": "real",
+      "target": "rtde",
+      "count": 19
+    },
+    {
+      "source": "reset",
+      "target": "robot",
+      "count": 19
+    },
+    {
+      "source": "robot",
+      "target": "sometimes",
+      "count": 19
+    },
+    {
+      "source": "robot",
+      "target": "uses",
+      "count": 19
+    },
+    {
+      "source": "robot",
+      "target": "vision",
+      "count": 19
+    },
+    {
+      "source": "robot",
+      "target": "wait",
+      "count": 19
+    },
+    {
+      "source": "robots",
+      "target": "series",
+      "count": 19
+    },
+    {
+      "source": "rotation",
+      "target": "tool",
+      "count": 19
+    },
+    {
+      "source": "rtde",
+      "target": "ursim",
+      "count": 19
+    },
+    {
+      "source": "rtde",
+      "target": "version",
+      "count": 19
+    },
+    {
+      "source": "safeguard",
+      "target": "safety",
+      "count": 19
+    },
+    {
+      "source": "safety",
+      "target": "set",
+      "count": 19
+    },
+    {
+      "source": "script",
+      "target": "tool",
+      "count": 19
+    },
+    {
+      "source": "script",
+      "target": "true",
+      "count": 19
+    },
+    {
+      "source": "script",
+      "target": "ursim",
+      "count": 19
+    },
+    {
+      "source": "send",
+      "target": "set",
+      "count": 19
+    },
+    {
+      "source": "series",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "series",
+      "target": "ur10",
+      "count": 19
+    },
+    {
+      "source": "set",
+      "target": "signal",
+      "count": 19
+    },
+    {
+      "source": "set",
+      "target": "socket",
+      "count": 19
+    },
+    {
+      "source": "set",
+      "target": "standard",
+      "count": 19
+    },
+    {
+      "source": "set",
+      "target": "waypoint",
+      "count": 19
+    },
+    {
+      "source": "system",
+      "target": "tcp",
+      "count": 19
+    },
+    {
+      "source": "tcp",
+      "target": "version",
+      "count": 19
+    },
+    {
+      "source": "tool",
+      "target": "ur5",
+      "count": 19
+    },
+    {
+      "source": "ur10e",
+      "target": "version",
+      "count": 19
+    },
+    {
+      "source": "0",
+      "target": "1",
+      "count": 18
+    },
+    {
+      "source": "1",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "10",
+      "target": "error",
+      "count": 18
+    },
+    {
+      "source": "11",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "12",
+      "target": "software",
+      "count": 18
+    },
+    {
+      "source": "13",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "4",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "8",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "actual",
+      "target": "get",
+      "count": 18
+    },
+    {
+      "source": "add",
+      "target": "pose",
+      "count": 18
+    },
+    {
+      "source": "application",
+      "target": "stop",
+      "count": 18
+    },
+    {
+      "source": "application",
+      "target": "tool",
+      "count": 18
+    },
+    {
+      "source": "automatic",
+      "target": "mode",
+      "count": 18
+    },
+    {
+      "source": "automatically",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "axis",
+      "target": "position",
+      "count": 18
+    },
+    {
+      "source": "base",
+      "target": "frame",
+      "count": 18
+    },
+    {
+      "source": "boot",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "button",
+      "target": "move",
+      "count": 18
+    },
+    {
+      "source": "button",
+      "target": "start",
+      "count": 18
+    },
+    {
+      "source": "call",
+      "target": "script",
+      "count": 18
+    },
+    {
+      "source": "cb2",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "cb3",
+      "target": "polyscope",
+      "count": 18
+    },
+    {
+      "source": "change",
+      "target": "move",
+      "count": 18
+    },
+    {
+      "source": "client",
+      "target": "control",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "communication",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "controller",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "example",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "input",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "line",
+      "count": 18
+    },
+    {
+      "source": "code",
+      "target": "robots",
+      "count": 18
+    },
+    {
+      "source": "cog",
+      "target": "payload",
+      "count": 18
+    },
+    {
+      "source": "command",
+      "target": "get",
+      "count": 18
+    },
+    {
+      "source": "command",
+      "target": "joint",
+      "count": 18
+    },
+    {
+      "source": "command",
+      "target": "line",
+      "count": 18
+    },
+    {
+      "source": "command",
+      "target": "urscript",
+      "count": 18
+    },
+    {
+      "source": "commands",
+      "target": "mode",
+      "count": 18
+    },
+    {
+      "source": "connect",
+      "target": "python",
+      "count": 18
+    },
+    {
+      "source": "connect",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "connected",
+      "target": "control",
+      "count": 18
+    },
+    {
+      "source": "connection",
+      "target": "modbus",
+      "count": 18
+    },
+    {
+      "source": "control",
+      "target": "tool",
+      "count": 18
+    },
+    {
+      "source": "control",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "controller",
+      "target": "power",
+      "count": 18
+    },
+    {
+      "source": "controller",
+      "target": "remote",
+      "count": 18
+    },
+    {
+      "source": "controller",
+      "target": "tcp",
+      "count": 18
+    },
+    {
+      "source": "conveyor",
+      "target": "tracking",
+      "count": 18
+    },
+    {
+      "source": "create",
+      "target": "polyscope",
+      "count": 18
+    },
+    {
+      "source": "currently",
+      "target": "rtde",
+      "count": 18
+    },
+    {
+      "source": "currently",
+      "target": "stop",
+      "count": 18
+    },
+    {
+      "source": "currently",
+      "target": "ur10",
+      "count": 18
+    },
+    {
+      "source": "daemon",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "daemon",
+      "target": "urcap",
+      "count": 18
+    },
+    {
+      "source": "dashboard",
+      "target": "socket",
+      "count": 18
+    },
+    {
+      "source": "dashboard",
+      "target": "stop",
+      "count": 18
+    },
+    {
+      "source": "data",
+      "target": "input",
+      "count": 18
+    },
+    {
+      "source": "data",
+      "target": "joint",
+      "count": 18
+    },
+    {
+      "source": "data",
+      "target": "robots",
+      "count": 18
+    },
+    {
+      "source": "data",
+      "target": "type",
+      "count": 18
+    },
+    {
+      "source": "default",
+      "target": "installation",
+      "count": 18
+    },
+    {
+      "source": "defined",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "device",
+      "target": "external",
+      "count": 18
+    },
+    {
+      "source": "different",
+      "target": "tcp",
+      "count": 18
+    },
+    {
+      "source": "digital",
+      "target": "modbus",
+      "count": 18
+    },
+    {
+      "source": "digital",
+      "target": "rtde",
+      "count": 18
+    },
+    {
+      "source": "digital",
+      "target": "stop",
+      "count": 18
+    },
+    {
+      "source": "documentation",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "documentation",
+      "target": "rtde",
+      "count": 18
+    },
+    {
+      "source": "driver",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "end",
+      "target": "error",
+      "count": 18
+    },
+    {
+      "source": "error",
+      "target": "everyone",
+      "count": 18
+    },
+    {
+      "source": "error",
+      "target": "installation",
+      "count": 18
+    },
+    {
+      "source": "error",
+      "target": "ip",
+      "count": 18
+    },
+    {
+      "source": "error",
+      "target": "tool",
+      "count": 18
+    },
+    {
+      "source": "everyone",
+      "target": "urcap",
+      "count": 18
+    },
+    {
+      "source": "everyone",
+      "target": "urscript",
+      "count": 18
+    },
+    {
+      "source": "everyone",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "feature",
+      "target": "offset",
+      "count": 18
+    },
+    {
+      "source": "file",
+      "target": "folder",
+      "count": 18
+    },
+    {
+      "source": "file",
+      "target": "set",
+      "count": 18
+    },
+    {
+      "source": "file",
+      "target": "software",
+      "count": 18
+    },
+    {
+      "source": "file",
+      "target": "ur5",
+      "count": 18
+    },
+    {
+      "source": "files",
+      "target": "ur",
+      "count": 18
+    },
+    {
+      "source": "files",
+      "target": "urp",
+      "count": 18
+    },
+    {
+      "source": "fixed",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "float",
+      "target": "read",
+      "count": 18
+    },
+    {
+      "source": "float",
+      "target": "register",
+      "count": 18
+    },
+    {
+      "source": "following",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "force",
+      "target": "payload",
+      "count": 18
+    },
+    {
+      "source": "force_mode",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "forum",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "frame",
+      "target": "pose",
+      "count": 18
+    },
+    {
+      "source": "function",
+      "target": "variable",
+      "count": 18
+    },
+    {
+      "source": "get",
+      "target": "set",
+      "count": 18
+    },
+    {
+      "source": "got",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "home",
+      "target": "position",
+      "count": 18
+    },
+    {
+      "source": "host",
+      "target": "port",
+      "count": 18
+    },
+    {
+      "source": "information",
+      "target": "ur",
+      "count": 18
+    },
+    {
+      "source": "input",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "install",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "installation",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "ip",
+      "target": "server",
+      "count": 18
+    },
+    {
+      "source": "joint",
+      "target": "ur5e",
+      "count": 18
+    },
+    {
+      "source": "joint",
+      "target": "wrist",
+      "count": 18
+    },
+    {
+      "source": "kb",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "limit",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "limits",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "local",
+      "target": "remote",
+      "count": 18
+    },
+    {
+      "source": "loop",
+      "target": "script",
+      "count": 18
+    },
+    {
+      "source": "machine",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "make",
+      "target": "position",
+      "count": 18
+    },
+    {
+      "source": "modbus",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "mode",
+      "target": "switch",
+      "count": 18
+    },
+    {
+      "source": "morning",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "move",
+      "target": "movement",
+      "count": 18
+    },
+    {
+      "source": "move",
+      "target": "offset",
+      "count": 18
+    },
+    {
+      "source": "move",
+      "target": "positions",
+      "count": 18
+    },
+    {
+      "source": "move",
+      "target": "send",
+      "count": 18
+    },
+    {
+      "source": "move",
+      "target": "trans",
+      "count": 18
+    },
+    {
+      "source": "movej",
+      "target": "position",
+      "count": 18
+    },
+    {
+      "source": "movements",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "number",
+      "target": "ur",
+      "count": 18
+    },
+    {
+      "source": "offset",
+      "target": "set",
+      "count": 18
+    },
+    {
+      "source": "open",
+      "target": "send",
+      "count": 18
+    },
+    {
+      "source": "option",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "order",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "parts",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "path",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "payload",
+      "target": "tcp",
+      "count": 18
+    },
+    {
+      "source": "pc",
+      "target": "send",
+      "count": 18
+    },
+    {
+      "source": "pc",
+      "target": "server",
+      "count": 18
+    },
+    {
+      "source": "play",
+      "target": "program",
+      "count": 18
+    },
+    {
+      "source": "plc",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "polyscope",
+      "target": "ursim",
+      "count": 18
+    },
+    {
+      "source": "port",
+      "target": "set",
+      "count": 18
+    },
+    {
+      "source": "pose",
+      "target": "values",
+      "count": 18
+    },
+    {
+      "source": "position",
+      "target": "relative",
+      "count": 18
+    },
+    {
+      "source": "program",
+      "target": "saved",
+      "count": 18
+    },
+    {
+      "source": "program",
+      "target": "ur3",
+      "count": 18
+    },
+    {
+      "source": "program",
+      "target": "wait",
+      "count": 18
+    },
+    {
+      "source": "programs",
+      "target": "script",
+      "count": 18
+    },
+    {
+      "source": "python",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "read",
+      "target": "variable",
+      "count": 18
+    },
+    {
+      "source": "registers",
+      "target": "ur",
+      "count": 18
+    },
+    {
+      "source": "release",
+      "target": "robot",
+      "count": 18
+    },
+    {
+      "source": "remote",
+      "target": "robots",
+      "count": 18
+    },
+    {
+      "source": "remote",
+      "target": "server",
+      "count": 18
+    },
+    {
+      "source": "remote",
+      "target": "urcap",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "rpc",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "several",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "similar",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "sleep",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "sure",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "today",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "ur16e",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "wanted",
+      "count": 18
+    },
+    {
+      "source": "robot",
+      "target": "x",
+      "count": 18
+    },
+    {
+      "source": "robots",
+      "target": "two",
+      "count": 18
+    },
+    {
+      "source": "robots",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "script",
+      "target": "ur5",
+      "count": 18
+    },
+    {
+      "source": "script",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "script",
+      "target": "waypoint",
+      "count": 18
+    },
+    {
+      "source": "script",
+      "target": "work",
+      "count": 18
+    },
+    {
+      "source": "set",
+      "target": "ur5",
+      "count": 18
+    },
+    {
+      "source": "set",
+      "target": "would",
+      "count": 18
+    },
+    {
+      "source": "start",
+      "target": "version",
+      "count": 18
+    },
+    {
+      "source": "target",
+      "target": "tcp",
+      "count": 18
+    },
+    {
+      "source": "thread",
+      "target": "true",
+      "count": 18
+    },
+    {
+      "source": "urscript",
+      "target": "via",
+      "count": 18
+    },
+    {
+      "source": "1",
+      "target": "cb3",
+      "count": 17
+    },
+    {
+      "source": "10",
+      "target": "11",
+      "count": 17
+    },
+    {
+      "source": "10",
+      "target": "software",
+      "count": 17
+    },
+    {
+      "source": "11",
+      "target": "software",
+      "count": 17
+    },
+    {
+      "source": "16",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "5",
+      "target": "update",
+      "count": 17
+    },
+    {
+      "source": "activate",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "actual",
+      "target": "command",
+      "count": 17
+    },
+    {
+      "source": "actual",
+      "target": "target",
+      "count": 17
+    },
+    {
+      "source": "add",
+      "target": "ur",
+      "count": 17
+    },
+    {
+      "source": "address",
+      "target": "network",
+      "count": 17
+    },
+    {
+      "source": "allowed",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "appreciated",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "arm",
+      "target": "trying",
+      "count": 17
+    },
+    {
+      "source": "automatically",
+      "target": "program",
+      "count": 17
+    },
+    {
+      "source": "base",
+      "target": "coordinate",
+      "count": 17
+    },
+    {
+      "source": "base",
+      "target": "function",
+      "count": 17
+    },
+    {
+      "source": "base",
+      "target": "point",
+      "count": 17
+    },
+    {
+      "source": "base",
+      "target": "relative",
+      "count": 17
+    },
+    {
+      "source": "byte",
+      "target": "socket",
+      "count": 17
+    },
+    {
+      "source": "change",
+      "target": "file",
+      "count": 17
+    },
+    {
+      "source": "change",
+      "target": "tool",
+      "count": 17
+    },
+    {
+      "source": "change",
+      "target": "version",
+      "count": 17
+    },
+    {
+      "source": "client",
+      "target": "command",
+      "count": 17
+    },
+    {
+      "source": "client",
+      "target": "input",
+      "count": 17
+    },
+    {
+      "source": "client",
+      "target": "ip",
+      "count": 17
+    },
+    {
+      "source": "client",
+      "target": "output",
+      "count": 17
+    },
+    {
+      "source": "close",
+      "target": "program",
+      "count": 17
+    },
+    {
+      "source": "close",
+      "target": "socket",
+      "count": 17
+    },
+    {
+      "source": "cobot",
+      "target": "ur10e",
+      "count": 17
+    },
+    {
+      "source": "code",
+      "target": "currently",
+      "count": 17
+    },
+    {
+      "source": "code",
+      "target": "kb",
+      "count": 17
+    },
+    {
+      "source": "code",
+      "target": "remote",
+      "count": 17
+    },
+    {
+      "source": "code",
+      "target": "string",
+      "count": 17
+    },
+    {
+      "source": "code",
+      "target": "version",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "controller",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "currently",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "movel",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "speed",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "ur5",
+      "count": 17
+    },
+    {
+      "source": "command",
+      "target": "ursim",
+      "count": 17
+    },
+    {
+      "source": "commands",
+      "target": "move",
+      "count": 17
+    },
+    {
+      "source": "communicate",
+      "target": "plc",
+      "count": 17
+    },
+    {
+      "source": "communicate",
+      "target": "ur",
+      "count": 17
+    },
+    {
+      "source": "communication",
+      "target": "connect",
+      "count": 17
+    },
+    {
+      "source": "connected",
+      "target": "ip",
+      "count": 17
+    },
+    {
+      "source": "connected",
+      "target": "network",
+      "count": 17
+    },
+    {
+      "source": "control",
+      "target": "driver",
+      "count": 17
+    },
+    {
+      "source": "control",
+      "target": "server",
+      "count": 17
+    },
+    {
+      "source": "controller",
+      "target": "send",
+      "count": 17
+    },
+    {
+      "source": "coordinates",
+      "target": "pose",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "force",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "interface",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "port",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "python",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "urcap",
+      "count": 17
+    },
+    {
+      "source": "currently",
+      "target": "urscript",
+      "count": 17
+    },
+    {
+      "source": "data",
+      "target": "ethernet",
+      "count": 17
+    },
+    {
+      "source": "data",
+      "target": "function",
+      "count": 17
+    },
+    {
+      "source": "data",
+      "target": "modbus",
+      "count": 17
+    },
+    {
+      "source": "data",
+      "target": "sensor",
+      "count": 17
+    },
+    {
+      "source": "data",
+      "target": "via",
+      "count": 17
+    },
+    {
+      "source": "default",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "end",
+      "target": "false",
+      "count": 17
+    },
+    {
+      "source": "error",
+      "target": "position",
+      "count": 17
+    },
+    {
+      "source": "error",
+      "target": "power",
+      "count": 17
+    },
+    {
+      "source": "error",
+      "target": "thread",
+      "count": 17
+    },
+    {
+      "source": "everyone",
+      "target": "gripper",
+      "count": 17
+    },
+    {
+      "source": "everyone",
+      "target": "read",
+      "count": 17
+    },
+    {
+      "source": "everyone",
+      "target": "set",
+      "count": 17
+    },
+    {
+      "source": "example",
+      "target": "trying",
+      "count": 17
+    },
+    {
+      "source": "example",
+      "target": "variable",
+      "count": 17
+    },
+    {
+      "source": "fault",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "feature",
+      "target": "set",
+      "count": 17
+    },
+    {
+      "source": "feature",
+      "target": "variable",
+      "count": 17
+    },
+    {
+      "source": "feature",
+      "target": "waypoint",
+      "count": 17
+    },
+    {
+      "source": "fine",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "flange",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "force",
+      "target": "ftsensor",
+      "count": 17
+    },
+    {
+      "source": "free",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "function",
+      "target": "kb",
+      "count": 17
+    },
+    {
+      "source": "function",
+      "target": "send",
+      "count": 17
+    },
+    {
+      "source": "function",
+      "target": "value",
+      "count": 17
+    },
+    {
+      "source": "gripper",
+      "target": "trying",
+      "count": 17
+    },
+    {
+      "source": "hey",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "host",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "image",
+      "target": "ur",
+      "count": 17
+    },
+    {
+      "source": "img",
+      "target": "kb",
+      "count": 17
+    },
+    {
+      "source": "implement",
+      "target": "trying",
+      "count": 17
+    },
+    {
+      "source": "input",
+      "target": "plc",
+      "count": 17
+    },
+    {
+      "source": "input",
+      "target": "python",
+      "count": 17
+    },
+    {
+      "source": "input",
+      "target": "registers",
+      "count": 17
+    },
+    {
+      "source": "installation",
+      "target": "safety",
+      "count": 17
+    },
+    {
+      "source": "installation",
+      "target": "script",
+      "count": 17
+    },
+    {
+      "source": "installation",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "interface",
+      "target": "mode",
+      "count": 17
+    },
+    {
+      "source": "interface",
+      "target": "polyscope",
+      "count": 17
+    },
+    {
+      "source": "interface",
+      "target": "robots",
+      "count": 17
+    },
+    {
+      "source": "inverse",
+      "target": "pose",
+      "count": 17
+    },
+    {
+      "source": "joint",
+      "target": "would",
+      "count": 17
+    },
+    {
+      "source": "kb",
+      "target": "plc",
+      "count": 17
+    },
+    {
+      "source": "kb",
+      "target": "set",
+      "count": 17
+    },
+    {
+      "source": "let",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "limits",
+      "target": "safety",
+      "count": 17
+    },
+    {
+      "source": "line",
+      "target": "trying",
+      "count": 17
+    },
+    {
+      "source": "log",
+      "target": "ur",
+      "count": 17
+    },
+    {
+      "source": "make",
+      "target": "script",
+      "count": 17
+    },
+    {
+      "source": "manual",
+      "target": "stop",
+      "count": 17
+    },
+    {
+      "source": "mode",
+      "target": "sensor",
+      "count": 17
+    },
+    {
+      "source": "move",
+      "target": "path",
+      "count": 17
+    },
+    {
+      "source": "move",
+      "target": "urscript",
+      "count": 17
+    },
+    {
+      "source": "movel",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "moving",
+      "target": "position",
+      "count": 17
+    },
+    {
+      "source": "one",
+      "target": "robots",
+      "count": 17
+    },
+    {
+      "source": "operator",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "output",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "pallet",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "pendant",
+      "target": "program",
+      "count": 17
+    },
+    {
+      "source": "pendant",
+      "target": "remote",
+      "count": 17
+    },
+    {
+      "source": "place",
+      "target": "program",
+      "count": 17
+    },
+    {
+      "source": "plc",
+      "target": "stop",
+      "count": 17
+    },
+    {
+      "source": "plc",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "pose",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "rtde",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "set",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "ur5",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "urscript",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "variable",
+      "count": 17
+    },
+    {
+      "source": "polyscope",
+      "target": "would",
+      "count": 17
+    },
+    {
+      "source": "pose",
+      "target": "urscript",
+      "count": 17
+    },
+    {
+      "source": "pose",
+      "target": "vector",
+      "count": 17
+    },
+    {
+      "source": "position",
+      "target": "safety",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "protective",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "register",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "save",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "starting",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "urcaps",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "var",
+      "count": 17
+    },
+    {
+      "source": "program",
+      "target": "wrist",
+      "count": 17
+    },
+    {
+      "source": "project",
+      "target": "ur10e",
+      "count": 17
+    },
+    {
+      "source": "python",
+      "target": "urcap",
+      "count": 17
+    },
+    {
+      "source": "reach",
+      "target": "robot",
+      "count": 17
+    },
+    {
+      "source": "register",
+      "target": "value",
+      "count": 17
+    },
+    {
+      "source": "relative",
+      "target": "tcp",
+      "count": 17
+    },
+    {
+      "source": "remote",
+      "target": "toolpath",
+      "count": 17
+    },
+    {
+      "source": "robot",
+      "target": "stopped",
+      "count": 17
+    },
+    {
+      "source": "rtde",
+      "target": "tool",
+      "count": 17
+    },
+    {
+      "source": "rtde",
+      "target": "write",
+      "count": 17
+    },
+    {
+      "source": "safety",
+      "target": "speed",
+      "count": 17
+    },
+    {
+      "source": "safety",
+      "target": "ur10e",
+      "count": 17
+    },
+    {
+      "source": "script",
+      "target": "sending",
+      "count": 17
+    },
+    {
+      "source": "script",
+      "target": "server",
+      "count": 17
+    },
+    {
+      "source": "script",
+      "target": "speed",
+      "count": 17
+    },
+    {
+      "source": "script",
+      "target": "start",
+      "count": 17
+    }
+  ]

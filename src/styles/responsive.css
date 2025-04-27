@@ -1,0 +1,38 @@
+/* Media queries for smaller screens */
+@media (max-width: 768px) {
+    .option-card {
+      width: 100%;
+      margin: 10px 0;
+    }
+  
+    .stepper {
+      flex-wrap: wrap;
+    }
+  
+    .button-container {
+      justify-content: space-between;
+    }
+  
+    .result-container {
+      flex-direction: column;
+    }
+  
+    .sidebar, .content {
+      width: 100%;
+    }
+  
+    .robot-card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .robot-image {
+      width: 100%; /* The image takes full width on smaller screens */
+      margin-top: 15px;
+    }
+  
+    .robot-details {
+      width: 100%; /* Text details take full width on smaller screens */
+    }
+  }
+  

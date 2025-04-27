@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Robot A",
+    "robotType": "UR30",
+    "applicationType": "Machine Tending",
+    "gripperType": "Servo Electric",
+    "image": "RobotA.png",
+    "dataAvailable": "Robot Operational Data | Event Data | Camera Data",
+    "components": "UR5 | Gripper VG10 | Clinic Item",
+    "program": "Detailed program information goes here",
+    "additionalImage": "AnotherImage.png",
+    "totalRating": 10,
+    "ratingCount": 3
+  },
+  {
+    "id": 2,
+    "name": "Robot B",
+    "robotType": "UR10e",
+    "applicationType": "Welding",
+    "gripperType": "Servo Electric",
+    "image": "RobotB.png",
+    "totalRating": 4,
+    "ratingCount": 2
+  },
+  {
+    "id": 3,
+    "name": "Robot C",
+    "robotType": "UR20",
+    "applicationType": "Palletizing",
+    "gripperType": "vacuum",
+    "image": "RobotC.png",
+    "totalRating": 11,
+    "ratingCount": 6
+  },
+  {
+    "id": 4,
+    "name": "Robot D",
+    "robotType": "UR30",
+    "applicationType": "Welding",
+    "gripperType": "Servo Electric",
+    "image": "RobotA.png",
+    "totalRating": 10,
+    "ratingCount": 2
+  },
+  {
+    "id": 5,
+    "name": "Robot A1",
+    "robotType": "UR20",
+    "applicationType": "Machine Tending",
+    "gripperType": "vacuum",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 6,
+    "name": "Robot A2",
+    "robotType": "UR10e",
+    "applicationType": "Palletizing",
+    "gripperType": "Servo Electric",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 7,
+    "name": "Robot A3",
+    "robotType": "UR30",
+    "applicationType": "Welding",
+    "gripperType": "vacuum",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 8,
+    "name": "Robot A4",
+    "robotType": "UR20",
+    "applicationType": "Machine Tending",
+    "gripperType": "Magnetic",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 9,
+    "name": "Robot A5",
+    "robotType": "UR10e",
+    "applicationType": "Welding",
+    "gripperType": "magnetic",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 10,
+    "name": "Robot A6",
+    "robotType": "UR30",
+    "applicationType": "Palletizing",
+    "gripperType": "Servo Electric",
+    "image": "RobotA.png",
+    "totalRating": 0,
+    "ratingCount": 0
+  },
+  {
+    "id": 11,
+    "name": "The outlier",
+    "robotType": "RobotType_1",
+    "applicationType": "applicationType_1",
+    "gripperType": "gripperType_1",
+    "image": "RobotB.png",
+    "totalRating": 11,
+    "ratingCount": 2
+  }
+]
