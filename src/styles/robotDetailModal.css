@@ -1,5 +1,5 @@
 /* Modal overlay styling */
-.RobotDetailModal-overlay {
+/* .RobotDetailModal-overlay {
   position: fixed;
   top: 0;
   left: 0;
@@ -10,28 +10,28 @@
   align-items: center;
   justify-content: center;
   z-index: 1000;
-}
+} */
 
 /* Modal content styling */
-.RobotDetailModal-content {
+/* .RobotDetailModal-content {
   background: #fff;
   padding: 20px;
   border-radius: 8px;
   min-width: 700px;
   max-width: 1200px;
   position: relative;
-}
+} */
 
 /* Container for close and bookmark buttons */
-.RobotDetailModal-buttons {
+/* .RobotDetailModal-buttons {
   position: absolute;
   top: 10px;
   right: 10px;
   display: flex;
-}
-
+} */
+/* 
 .RobotDetailModal-close-button, .RobotDetailModal-bookmark-button {
-  background-color: rgba(0, 123, 255, 0.3); /* Consistent transparent blue background */
+  background-color: rgba(0, 123, 255, 0.3); 
   border: none;
   color: white;
   font-size: 1.5rem;
@@ -40,15 +40,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 32px; /* Define width to make it square */
-  height: 32px; /* Define height to make it square */
-  border-radius: 4px; /* Slightly rounded corners with units */
-}
+  width: 32px; 
+  height: 32px; 
+  border-radius: 4px;
+} */
 
 /* Hover effect for close and bookmark buttons */
-.RobotDetailModal-close-button:hover, .RobotDetailModal-bookmark-button:hover {
-  background-color: rgba(0, 123, 255, 0.5); /* Darker blue on hover */
-}
+/* .RobotDetailModal-close-button:hover, .RobotDetailModal-bookmark-button:hover {
+  background-color: rgba(0, 123, 255, 0.5); 
+} */
 
 /* Robot details section */
 .RobotDetailModal-details {
@@ -58,23 +58,23 @@
 }
 
 /* Title styling */
-.RobotDetailModal-title {
+/* .RobotDetailModal-title {
   font-size: 1.5em;
   font-weight: bold;
   margin-bottom: 0.5em;
-}
+} */
 
 /* Rating section styling */
-.RobotDetailModal-rating {
+/* .RobotDetailModal-rating {
   display: flex;
   align-items: center;
   margin-bottom: 10px;
-}
+} */
 
-.RobotDetailModal-rating-text {
+/* .RobotDetailModal-rating-text {
   margin-left: 8px;
   font-size: 1.1em;
-}
+} */
 
 /* Image section styling */
 .RobotDetailModal-images {
